@@ -405,3 +405,171 @@ videos about open source, AI agents, and developer tooling — plus a curated
 - **Mautic** — open-source marketing automation platform. https://github.com/mautic/mautic
 - **OpenReplay** — self-hosted session replay & product analytics. https://github.com/openreplay/openreplay
 - **GrowthBook** — open-source feature flags and A/B testing. https://github.com/growthbook/growthbook
+
+---
+
+## Build-anything toolbox — repos by sector
+
+> Researched & verified (June 2026). Foundations for shipping in almost any
+> vertical: pick a sector, fork a mature base, build on top.
+
+### Market research, trends & web scraping
+
+- **Scrapy** — fast high-level Python web crawling/scraping framework. https://github.com/scrapy/scrapy
+- **Crawlee** — Node.js scraping + browser-automation library. https://github.com/apify/crawlee
+- **Crawl4AI** — LLM-friendly crawler producing clean markdown for AI. https://github.com/unclecode/crawl4ai
+- **Scrapegraph-ai** — build scraper pipelines from natural-language prompts. https://github.com/ScrapeGraphAI/Scrapegraph-ai
+- **Trafilatura** — extract clean text + metadata from web pages. https://github.com/adbar/trafilatura
+- **Newspaper4k** — maintained article/metadata extractor for news sites. https://github.com/AndyTheFactory/newspaper4k
+- **GNews** — lightweight Python API for Google News search. https://github.com/ranahaani/GNews
+- **pytrends** — unofficial Python API for Google Trends data. https://github.com/GeneralMills/pytrends
+- **changedetection.io** — self-hosted site change + price-drop monitoring. https://github.com/dgtlmoon/changedetection.io
+- **MediaCrawler** — multi-platform social media post/comment crawler. https://github.com/NanmiCoder/MediaCrawler
+
+### Money management & fintech
+
+- **Firefly III** — self-hosted personal finance manager w/ budgets + API. https://github.com/firefly-iii/firefly-iii
+- **Actual** — local-first envelope-budgeting personal finance app. https://github.com/actualbudget/actual
+- **Maybe** — open-source personal finance & wealth-management app. https://github.com/maybe-finance/maybe
+- **Ghostfolio** — privacy-focused wealth/portfolio tracking dashboard. https://github.com/ghostfolio/ghostfolio
+- **GnuCash** — mature desktop double-entry accounting. https://github.com/Gnucash/gnucash
+- **Beancount** — plain-text double-entry accounting language + tooling. https://github.com/beancount/beancount
+- **Lago** — open-source metering & usage-based billing API. https://github.com/getlago/lago
+- **OpenBB** — financial data platform for analysts, quants, AI agents. https://github.com/OpenBB-finance/OpenBB
+- **Qlib** — Microsoft AI-oriented quant investment research platform. https://github.com/microsoft/qlib
+- **Freqtrade** — crypto trading bot w/ backtesting + optimization. https://github.com/freqtrade/freqtrade
+- **CCXT** — unified crypto exchange trading API (100+ markets). https://github.com/ccxt/ccxt
+
+### Game development
+
+- **Godot** — full-featured free 2D/3D cross-platform game engine. https://github.com/godotengine/godot
+- **Bevy** — data-driven Rust game engine using ECS. https://github.com/bevyengine/bevy
+- **raylib** — simple, easy-to-use C library for game programming. https://github.com/raysan5/raylib
+- **Phaser** — fast HTML5 2D game framework for browsers. https://github.com/phaserjs/phaser
+- **LÖVE** — Lua-scripted 2D game framework, cross-platform. https://github.com/love2d/love
+- **MonoGame** — cross-platform C# framework, open-source XNA successor. https://github.com/MonoGame/MonoGame
+- **libGDX** — Java cross-platform game development framework. https://github.com/libgdx/libgdx
+- **PixiJS** — fast WebGL/HTML5 2D rendering engine. https://github.com/pixijs/pixijs
+- **Ebitengine** — simple 2D game engine for Go. https://github.com/hajimehoshi/ebiten
+- **Tiled** — flexible level and tile-map editor. https://github.com/mapeditor/tiled
+- **Aseprite** — animated sprite editor and pixel-art tool. https://github.com/aseprite/aseprite
+
+### Project tracking & productivity
+
+- **Plane** — open-source Jira/Linear alternative for issues/roadmaps. https://github.com/makeplane/plane
+- **Vikunja** — self-hostable to-do and task organization. https://github.com/go-vikunja/vikunja
+- **Taiga** — open-source project management for agile teams. https://github.com/kaleidos-ventures/taiga
+- **OpenProject** — web-based project management & collaboration. https://github.com/opf/openproject
+- **Leantime** — goals-focused open-source project management. https://github.com/Leantime/leantime
+- **Huly** — all-in-one PM platform, Jira/Linear alternative. https://github.com/hcengineering/platform
+- **AFFiNE** — docs, whiteboards, databases; Notion/Miro alternative. https://github.com/toeverything/AFFiNE
+- **Outline** — team knowledge base and wiki with markdown. https://github.com/outline/outline
+- **Trilium** — hierarchical personal knowledge base. https://github.com/TriliumNext/Trilium
+- **Docmost** — collaborative wiki/docs; Confluence/Notion alternative. https://github.com/docmost/docmost
+- **Super Productivity** — todo w/ timeboxing, time tracking, integrations. https://github.com/johannesjo/super-productivity
+
+### Fitness, health & wellness
+
+- **wger** — self-hosted workout, nutrition & body-weight tracker. https://github.com/wger-project/wger
+- **Open Food Facts** — open database of food products & nutrition. https://github.com/openfoodfacts/openfoodfacts-server
+- **Habitica** — gamified habit-building and productivity tracker. https://github.com/HabitRPG/habitica
+- **uHabits (Loop)** — habit tracker for building good habits. https://github.com/iSoron/uhabits
+- **Loop** — DIY automated insulin delivery (artificial pancreas). https://github.com/LoopKit/Loop
+- **Fasten** — self-hosted personal medical records aggregator. https://github.com/fastenhealth/fasten-onprem
+- **OpenEMR** — open-source electronic health records + practice mgmt. https://github.com/openemr/openemr
+- **Nightscout** — real-time continuous glucose monitoring dashboard. https://github.com/nightscout/cgm-remote-monitor
+- **FitTrackee** — self-hosted outdoor activity & fitness tracker. https://github.com/SamR1/FitTrackee
+- **workout-cool** — modern open-source fitness coaching/planner. https://github.com/Snouzy/workout-cool
+
+### E-commerce, retail & inventory
+
+- **Medusa** — headless commerce platform/toolkit in TypeScript. https://github.com/medusajs/medusa
+- **Saleor** — GraphQL-first headless e-commerce in Python. https://github.com/saleor/saleor
+- **Vendure** — headless commerce framework on Node/GraphQL. https://github.com/vendurehq/vendure
+- **Bagisto** — Laravel + Vue open-source e-commerce. https://github.com/bagisto/bagisto
+- **WooCommerce** — open-source e-commerce plugin for WordPress. https://github.com/woocommerce/woocommerce
+- **Sylius** — open-source headless e-commerce on Symfony. https://github.com/Sylius/Sylius
+- **Shopware** — open commerce platform on Symfony + Vue. https://github.com/shopware/shopware
+- **Spree** — open-source Rails e-commerce platform. https://github.com/spree/spree
+- **InvenTree** — open-source inventory management & stock control. https://github.com/inventree/InvenTree
+- **ERPNext** — open-source ERP w/ inventory, POS, accounting. https://github.com/frappe/erpnext
+
+### Education & e-learning
+
+- **Moodle** — world's most-used open-source LMS. https://github.com/moodle/moodle
+- **Canvas LMS** — Instructure's LMS for schools & universities. https://github.com/instructure/canvas-lms
+- **Open edX** — LMS + Studio powering edX-style course sites. https://github.com/openedx/edx-platform
+- **Frappe LMS** — easy-to-use, fully open-source LMS. https://github.com/frappe/lms
+- **Oppia** — interactive lessons for accessible online education. https://github.com/oppia/oppia
+- **Forem** — community platform behind DEV; learning communities. https://github.com/forem/forem
+- **Exercism** — free coding practice + mentorship, 70+ languages. https://github.com/exercism/exercism
+- **freeCodeCamp** — free full-stack coding curriculum + certs. https://github.com/freeCodeCamp/freeCodeCamp
+- **Anki** — spaced-repetition flashcards for efficient memorization. https://github.com/ankitects/anki
+
+### Business — CRM, sales, HR & ERP
+
+- **Twenty** — modern open-source CRM, Salesforce alternative. https://github.com/twentyhq/twenty
+- **Odoo** — modular open-source ERP/CRM + business apps. https://github.com/odoo/odoo
+- **SuiteCRM** — open-source CRM for sales, marketing, service. https://github.com/salesagility/SuiteCRM
+- **Krayin** — Laravel-based open-source CRM for SMEs. https://github.com/krayin/laravel-crm
+- **Monica** — personal CRM to manage relationships/contacts. https://github.com/monicahq/monica
+- **EspoCRM** — lightweight open-source CRM with REST API. https://github.com/espocrm/espocrm
+- **Frappe HRMS** — open-source HR and payroll suite. https://github.com/frappe/hrms
+- **Invoice Ninja** — open-source invoicing, billing, payments. https://github.com/invoiceninja/invoiceninja
+
+### Data, ML, IoT & robotics
+
+- **Apache Airflow** — programmatic workflow orchestration + DAG scheduling. https://github.com/apache/airflow
+- **dbt Core** — SQL-based data transformation & modeling. https://github.com/dbt-labs/dbt-core
+- **DuckDB** — fast in-process analytical SQL database. https://github.com/duckdb/duckdb
+- **Polars** — blazing-fast Rust-powered DataFrame library. https://github.com/pola-rs/polars
+- **ClickHouse** — column-oriented DB for real-time analytics. https://github.com/ClickHouse/ClickHouse
+- **Ray** — distributed compute framework for ML and Python. https://github.com/ray-project/ray
+- **MLflow** — ML experiment tracking & lifecycle management. https://github.com/mlflow/mlflow
+- **Label Studio** — multi-type data labeling & annotation. https://github.com/HumanSignal/label-studio
+- **Home Assistant** — open-source home automation & IoT platform. https://github.com/home-assistant/core
+- **ESPHome** — configure ESP microcontrollers for home automation. https://github.com/esphome/esphome
+- **PX4 Autopilot** — flight control software for drones/UAVs. https://github.com/PX4/PX4-Autopilot
+
+### Maps, geospatial & logistics
+
+- **Leaflet** — lightweight JavaScript library for interactive maps. https://github.com/Leaflet/Leaflet
+- **MapLibre GL JS** — open-source vector-tile map rendering. https://github.com/maplibre/maplibre-gl-js
+- **deck.gl** — WebGL framework for large-scale data viz. https://github.com/visgl/deck.gl
+- **kepler.gl** — geospatial analysis for large-scale datasets. https://github.com/keplergl/kepler.gl
+- **Turf.js** — advanced geospatial analysis for JavaScript. https://github.com/Turfjs/turf
+- **QGIS** — free desktop geographic information system. https://github.com/qgis/QGIS
+- **Valhalla** — open-source OSM routing and navigation engine. https://github.com/valhalla/valhalla
+- **OSRM** — fast C++ OpenStreetMap routing engine. https://github.com/Project-OSRM/osrm-backend
+- **Pelias** — modular open-source geocoder on Elasticsearch. https://github.com/pelias/pelias
+- **Nominatim** — OpenStreetMap search and geocoding engine. https://github.com/osm-search/Nominatim
+
+### Communication & collaboration
+
+- **Rocket.Chat** — self-hosted team chat & collaboration. https://github.com/RocketChat/Rocket.Chat
+- **Mattermost** — open-source Slack alternative for team messaging. https://github.com/mattermost/mattermost
+- **Synapse** — Matrix homeserver for federated, encrypted comms. https://github.com/element-hq/synapse
+- **Jitsi Meet** — secure, scalable self-hostable video conferencing. https://github.com/jitsi/jitsi-meet
+- **Nextcloud** — self-hosted files, calendar, contacts, collaboration. https://github.com/nextcloud/server
+- **Jellyfin** — free media server for streaming your libraries. https://github.com/jellyfin/jellyfin
+- **Immich** — self-hosted photo/video backup, Google Photos alt. https://github.com/immich-app/immich
+- **Zulip** — threaded team chat blending email + instant messaging. https://github.com/zulip/zulip
+- **Mailcow** — dockerized full-featured self-hosted email server. https://github.com/mailcow/mailcow-dockerized
+- **Stalwart** — all-in-one Rust mail/collaboration server. https://github.com/stalwartlabs/stalwart
+- **Cap** — open-source Loom alternative for screen recordings. https://github.com/CapSoftware/Cap
+- **Documenso** — open-source DocuSign alternative for e-signatures. https://github.com/documenso/documenso
+
+### Security, identity & auth
+
+- **Keycloak** — IAM with SSO, OIDC, SAML. https://github.com/keycloak/keycloak
+- **Authentik** — flexible self-hosted identity provider & SSO. https://github.com/goauthentik/authentik
+- **Authelia** — authentication + 2FA portal for reverse proxies. https://github.com/authelia/authelia
+- **Zitadel** — cloud-native identity, OIDC, user management. https://github.com/zitadel/zitadel
+- **Ory Kratos** — headless identity, login, user-management API. https://github.com/ory/kratos
+- **Vaultwarden** — lightweight Rust Bitwarden-compatible server. https://github.com/dani-garcia/vaultwarden
+- **Gitleaks** — scan git repos for hardcoded secrets. https://github.com/gitleaks/gitleaks
+- **OWASP ZAP** — web app security scanner + pentest proxy. https://github.com/zaproxy/zaproxy
+- **Wazuh** — open-source SIEM, XDR, endpoint threat detection. https://github.com/wazuh/wazuh
+- **CrowdSec** — collaborative behavior-based intrusion prevention. https://github.com/crowdsecurity/crowdsec
+- **Teleport** — identity-aware access for servers, k8s, databases. https://github.com/gravitational/teleport
+- **OpenBao** — community fork of Vault for secrets/key management. https://github.com/openbao/openbao
