@@ -377,6 +377,20 @@ videos about open source, AI agents, and developer tooling — plus a curated
 - **Qwik** — resumable framework with zero-hydration instant loading. https://github.com/QwikDev/qwik
 - **htmx** — HTML-driven interactivity with minimal JavaScript. https://github.com/bigskysoftware/htmx
 
+### 3D, WebGL & immersive web
+
+> Added 2026-06-16 while prototyping a 3D "wow-factor" landing. three.js and
+> AmbientCanvasBackgrounds (listed above) pair well with these.
+
+- **react-three-fiber** — React renderer for three.js; declarative 3D scenes. https://github.com/pmndrs/react-three-fiber
+- **drei** — helpers for react-three-fiber (Float, Environment, Text3D, reflectors, ScrollControls). https://github.com/pmndrs/drei
+- **react-postprocessing** — post effects for r3f (bloom, depth-of-field, vignette). https://github.com/pmndrs/react-postprocessing
+- **postprocessing** — the underlying three.js post-processing library. https://github.com/pmndrs/postprocessing
+- **maath** — math helpers for r3f: particle distributions, easing, buffers. https://github.com/pmndrs/maath
+- **StPageFlip** — realistic page-turning effect; ideal for book/reader sites. https://github.com/Nodlik/StPageFlip
+- **shadergradient** — animated 3D gradient backgrounds for React/Figma/Framer. https://github.com/ruucm/shadergradient
+
+
 ### Creating Media — video, audio & image
 
 - **SD WebUI Forge** — optimized Stable Diffusion image generation UI. https://github.com/lllyasviel/stable-diffusion-webui-forge
