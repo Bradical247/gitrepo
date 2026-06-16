@@ -735,3 +735,160 @@ videos about open source, AI agents, and developer tooling — plus a curated
 - **Ushahidi Platform** — crowdsourcing for crisis mapping & reporting. https://github.com/ushahidi/platform
 - **Houdini Project** — free open-source fundraising infra for nonprofits. https://github.com/houdiniproject/houdini
 - **Open Collective** — transparent crowdfunding/finance for communities. https://github.com/opencollective/opencollective
+
+---
+
+## Build-anything toolbox III — media, social, self-hosted & niche
+
+> Third research pass (verified June 2026). Where canonical dev lives off GitHub
+> (KDE GitLab, Codeberg), the official GitHub mirror or most-starred repo is linked.
+
+### Music
+
+- **Navidrome** — self-hosted Subsonic-compatible music streaming server. https://github.com/navidrome/navidrome
+- **AzuraCast** — all-in-one self-hosted internet radio suite. https://github.com/AzuraCast/AzuraCast
+- **Mopidy** — extensible Python music server with many backends. https://github.com/mopidy/mopidy
+- **OwnTone** — local-first media server streaming to AirPlay/Chromecast. https://github.com/owntone/owntone-server
+- **Ardour** — professional cross-platform digital audio workstation. https://github.com/Ardour/ardour
+- **LMMS** — free cross-platform music production software (DAW). https://github.com/LMMS/lmms
+- **Sonic Pi** — live-coding synth and music-creation environment. https://github.com/sonic-pi-net/sonic-pi
+- **Beets** — music library manager and MusicBrainz tagger. https://github.com/beetbox/beets
+
+### Podcasting
+
+- **Castopod** — open-source podcast hosting w/ audience engagement. https://github.com/ad-aures/castopod
+- **AntennaPod** — open-source podcast manager/player for Android. https://github.com/AntennaPod/AntennaPod
+- **Audiobookshelf** — self-hosted audiobook + podcast server with apps. https://github.com/advplyr/audiobookshelf
+- **Podverse** — cross-platform open-source podcast app. https://github.com/podverse/podverse-rn
+- **gPodder** — mature cross-platform desktop podcast client. https://github.com/gpodder/gpodder
+- **Podgrab** — self-hosted podcast downloader/archiver. https://github.com/akhilrex/podgrab
+- **PinePods** — self-hosted multi-user podcast management (Rust). https://github.com/madeofpendletonwool/PinePods
+
+### Photography & DAM
+
+- **PhotoPrism** — AI-powered self-hosted photo library. https://github.com/photoprism/photoprism
+- **Lychee** — self-hosted PHP photo-management system. https://github.com/LycheeOrg/Lychee
+- **darktable** — open-source RAW developer + non-destructive editing. https://github.com/darktable-org/darktable
+- **digiKam** — KDE advanced photo manager/organizer/RAW editor. https://github.com/KDE/digikam
+- **LibrePhotos** — self-hosted Google Photos alternative w/ tagging. https://github.com/LibrePhotos/librephotos
+- **Ente Photos** — end-to-end encrypted photo storage/backup/sharing. https://github.com/ente-io/ente
+
+### E-books & audiobooks
+
+- **Calibre-Web** — web app to browse/read a Calibre ebook library. https://github.com/janeczku/calibre-web
+- **Kavita** — fast cross-platform reading server for books/comics/manga. https://github.com/Kareadita/Kavita
+- **Komga** — media server for comics, manga, magazines, eBooks. https://github.com/gotson/komga
+- **Calibre** — powerful desktop ebook manager/converter/viewer. https://github.com/kovidgoyal/calibre
+- **Storyteller** — syncs audiobook narration to ebook text for read-along. https://github.com/smoores-dev/storyteller
+
+### Streaming & live video
+
+- **OBS Studio** — cross-platform live streaming and screen recording. https://github.com/obsproject/obs-studio
+- **Owncast** — self-hosted live video streaming and chat server. https://github.com/owncast/owncast
+- **Restreamer** — self-hosted streaming server; restream to YouTube/Twitch. https://github.com/datarhei/restreamer
+- **Ant Media Server** — scalable ultra-low-latency WebRTC streaming. https://github.com/ant-media/Ant-Media-Server
+- **MediaMTX** — RTSP/WebRTC/RTMP/SRT/HLS media server + recorder. https://github.com/bluenviron/mediamtx
+- **SRS** — simple high-efficiency realtime media server. https://github.com/ossrs/srs
+
+### 3D, VFX & digital art
+
+- **Blender** — full 3D suite: modeling, animation, rendering, VFX. https://github.com/blender/blender
+- **Krita** — professional digital painting and 2D illustration. https://github.com/KDE/krita
+- **Synfig Studio** — vector-based 2D animation studio. https://github.com/synfig/synfig
+- **OpenToonz** — production 2D animation software (Studio Ghibli). https://github.com/opentoonz/opentoonz
+- **Pencil2D** — lightweight hand-drawn 2D animation tool. https://github.com/pencil2d/pencil
+- **Natron** — node-based video compositing (Nuke/AE-like). https://github.com/NatronGitHub/Natron
+
+### Fediverse & decentralized social
+
+- **Mastodon** — federated ActivityPub microblogging server. https://github.com/mastodon/mastodon
+- **Lemmy** — federated link-aggregator and forum, Reddit-style. https://github.com/LemmyNet/lemmy
+- **Pixelfed** — federated photo-sharing platform, Instagram-style. https://github.com/pixelfed/pixelfed
+- **Misskey** — feature-rich decentralized microblogging server. https://github.com/misskey-dev/misskey
+- **PeerTube** — federated, peer-to-peer video hosting platform. https://github.com/Chocobozzz/PeerTube
+- **Friendica** — federated social network with broad protocol support. https://github.com/friendica/friendica
+
+### Forums & community
+
+- **Discourse** — modern, feature-rich discussion forum platform. https://github.com/discourse/discourse
+- **Flarum** — simple, fast, extensible forum software. https://github.com/flarum/framework
+- **NodeBB** — Node.js forum with real-time WebSocket updates. https://github.com/NodeBB/NodeBB
+- **phpBB** — long-established, widely-deployed PHP bulletin board. https://github.com/phpbb/phpbb
+- **Misago** — modern Python/Django forum, fast and responsive. https://github.com/rafalp/Misago
+- **Talkyard** — community platform blending SO/Discourse/Slack/Disqus. https://github.com/debiki/talkyard
+
+### Backup, sync & storage
+
+- **restic** — fast, secure, deduplicating encrypted backup. https://github.com/restic/restic
+- **BorgBackup** — deduplicating, compressed, encrypted backup tool. https://github.com/borgbackup/borg
+- **Kopia** — cross-platform encrypted backup w/ snapshots + cloud. https://github.com/kopia/kopia
+- **rclone** — "rsync for cloud storage", 70+ providers. https://github.com/rclone/rclone
+- **Syncthing** — continuous peer-to-peer encrypted file sync. https://github.com/syncthing/syncthing
+- **Seafile** — self-hosted file sync/share w/ client-side encryption. https://github.com/haiwen/seafile
+
+### RSS, read-later & bookmarks
+
+- **FreshRSS** — self-hosted, multi-user RSS/Atom aggregator. https://github.com/FreshRSS/FreshRSS
+- **Miniflux** — minimalist single-binary feed reader in Go. https://github.com/miniflux/v2
+- **Wallabag** — self-hosted read-it-later app, saves article content. https://github.com/wallabag/wallabag
+- **linkding** — minimal, fast self-hosted bookmark manager. https://github.com/sissbruecker/linkding
+- **Shiori** — simple self-hosted bookmark manager, single binary. https://github.com/go-shiori/shiori
+- **Karakeep** — bookmark-everything app (ex-Hoarder) w/ AI tagging. https://github.com/karakeep-app/karakeep
+
+### Smart home & NVR
+
+- **Frigate** — local NVR with realtime AI object detection. https://github.com/blakeblackshear/frigate
+- **Scrypted** — camera/NVR hub bridging HomeKit/Google/Alexa. https://github.com/koush/scrypted
+- **motionEye** — web frontend for the motion surveillance daemon. https://github.com/motioneye-project/motioneye
+- **Zigbee2MQTT** — bridge Zigbee devices to MQTT, no vendor hub. https://github.com/Koenkk/zigbee2mqtt
+- **Z-Wave JS UI** — full-featured Z-Wave control panel + MQTT gateway. https://github.com/zwave-js/zwave-js-ui
+- **Homebridge** — adds HomeKit support to non-native devices. https://github.com/homebridge/homebridge
+
+### Document AI, OCR & PDF
+
+- **Tesseract** — foundational open-source OCR engine, 100+ languages. https://github.com/tesseract-ocr/tesseract
+- **OCRmyPDF** — adds a searchable text layer to scanned PDFs. https://github.com/ocrmypdf/OCRmyPDF
+- **Paperless-ngx** — self-hosted document management w/ OCR + indexing. https://github.com/paperless-ngx/paperless-ngx
+- **Stirling-PDF** — self-hosted web toolkit for editing/manipulating PDFs. https://github.com/Stirling-Tools/Stirling-PDF
+- **Docling** — IBM toolkit parsing documents into gen-AI-ready formats. https://github.com/docling-project/docling
+- **Marker** — converts PDFs to markdown/JSON, high accuracy. https://github.com/datalab-to/marker
+- **MinerU** — transforms PDFs/Office docs into LLM-ready markdown. https://github.com/opendatalab/MinerU
+- **Unstructured** — ETL turning complex documents into structured data. https://github.com/Unstructured-IO/unstructured
+
+### Accessibility & localization
+
+- **Weblate** — web-based continuous localization platform. https://github.com/WeblateOrg/weblate
+- **Tolgee** — developer-friendly localization w/ in-context editing. https://github.com/tolgee/tolgee-platform
+- **axe-core** — accessibility engine for automated web UI testing. https://github.com/dequelabs/axe-core
+- **Pa11y** — automated accessibility testing for CI pipelines. https://github.com/pa11y/pa11y
+- **Accessibility Insights** — Microsoft's accessibility testing extension. https://github.com/microsoft/accessibility-insights-web
+- **Pontoon** — Mozilla's web-based translation management system. https://github.com/mozilla/pontoon
+- **i18next** — popular JavaScript internationalization framework. https://github.com/i18next/i18next
+- **LibreTranslate** — free self-hosted offline machine translation API. https://github.com/LibreTranslate/LibreTranslate
+
+### Real estate, asset & inventory
+
+- **Snipe-IT** — free Laravel IT asset & license management. https://github.com/grokability/snipe-it
+- **Homebox** — self-hosted home inventory & organization. https://github.com/sysadminsmedia/homebox
+- **InvenTree** — Django stock-control and part-tracking platform. https://github.com/inventree/InvenTree
+- **Part-DB** — web inventory for electronic components and parts. https://github.com/Part-DB/Part-DB-server
+
+### Sports & activity tracking
+
+- **GoldenCheetah** — desktop performance analytics for endurance athletes. https://github.com/GoldenCheetah/GoldenCheetah
+- **Traccar** — Java GPS tracking server, 200+ device protocols. https://github.com/traccar/traccar
+- **FitTrackee** — self-hosted outdoor workout/activity tracker. https://github.com/SamR1/FitTrackee
+- **Dawarich** — self-hosted location-history tracker, Timeline replacement. https://github.com/Freika/dawarich
+- **GPSLogger** — lightweight Android GPS logging (GPX/KML/CSV). https://github.com/mendhak/gpslogger
+
+### Genealogy
+
+- **Gramps** — full-featured desktop genealogy/family-history app. https://github.com/gramps-project/gramps
+- **webtrees** — web-based collaborative online family-tree (GEDCOM). https://github.com/fisharebest/webtrees
+- **family-chart** — D3.js library for interactive family-tree viz. https://github.com/donatso/family-chart
+
+### Household, pets & parenting
+
+- **Baby Buddy** — tracks infant sleep, feedings, diapers, tummy time. https://github.com/babybuddy/babybuddy
+- **Grocy** — self-hosted groceries & household "ERP beyond your fridge". https://github.com/grocy/grocy
+- **Donetick** — collaborative chore/task manager w/ scheduling + gamification. https://github.com/donetick/donetick
