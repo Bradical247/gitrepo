@@ -1,3 +1,51 @@
+Ponytail
+video-use
+ccstatusline
+excalidraw diagram skill
+Build-you-own-X
+App-ideas
+Projectlearn
+Project-based-learning
+AmbientCanvasBachgrounds
+get-shit-done
+gsap-skills
+project-ideas-resources
+public-apis
+perspective
+pbakaus/impeccable
+msitarzewski/agency-agents
+spec-kit
+modelcontextprotocol/servers
+mem0ai/mem0
+yamadashy/repomix
+fallow
+awesomedesign.md
+Acontext
+vibe-code-pro-max-kit
+faker-js/faker
+ryoppippi/ccusage
+nextlevelbuilder/ui-ux-pro-max-skill
+carizentos/design-motion-principles
+hailuo - video creation
+loveart - canva alt.
+Minimax - voice generation
+21st.dev - magic mcp server - wwebsite creation.
+huemint.com = color palletes for websites
+diagrams.net (draw.io)
+shadcn/ui
+three.js/animations
+flutter/animations
+css/css-animations
+ui-animation.de/Ui-Animation
+playwrieght mcp
+firecrawl
+glif
+chromedevtools/devtools-logo
+chromeDevTools
+ppl-ai/modelcontextprotocol
+
+
+
 # GitHub Repos from YouTube Transcripts
 
 A running index of every GitHub project / repo mentioned across YouTube
