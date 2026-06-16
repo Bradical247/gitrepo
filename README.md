@@ -279,3 +279,129 @@ videos about open source, AI agents, and developer tooling — plus a curated
 - **#65** is a community repo with "Anthropic" in the name — not official.
 - **#42 (agentmemory)** and **#52 (free LLM API)** have multiple same-named repos; the most prominent is linked, alt noted.
 - **#64** (Wi-Fi sensing) and **#66** (Cursor plugins) aren't single canonical repos.
+
+---
+
+## Curated picks by domain — networking, agents, DevOps, design & media
+
+> Researched additions (verified June 2026). Mature, high-value, actively
+> maintained projects across the areas worth building with. No overlap with the
+> tables above.
+
+### Network Engineering & IT Infrastructure
+
+- **Headscale** — self-hosted open-source Tailscale control server. https://github.com/juanfont/headscale
+- **NetBird** — WireGuard-based mesh VPN, self-hostable end-to-end. https://github.com/netbirdio/netbird
+- **wg-easy** — easiest way to run WireGuard with a web UI. https://github.com/wg-easy/wg-easy
+- **AdGuard Home** — network-wide DNS ad/tracker blocking. https://github.com/AdguardTeam/AdGuardHome
+- **Pi-hole** — DNS sinkhole blocking ads across the network. https://github.com/pi-hole/pi-hole
+- **Technitium DNS** — self-hosted recursive/authoritative DNS + DHCP + blocking. https://github.com/TechnitiumSoftware/DnsServer
+- **phpIPAM** — web-based IP address management and subnet tracking. https://github.com/phpipam/phpipam
+- **OPNsense** — open-source FreeBSD firewall and routing platform. https://github.com/opnsense/core
+- **LibreNMS** — auto-discovering SNMP network monitoring, many vendors. https://github.com/librenms/librenms
+- **Zabbix** — enterprise-grade real-time infrastructure & network monitoring. https://github.com/zabbix/zabbix
+- **ntopng** — web-based high-speed traffic & security monitoring. https://github.com/ntop/ntopng
+- **SuzieQ** — multi-vendor network observability and state querying. https://github.com/netenglabs/suzieq
+- **Batfish** — network config analysis, validation, what-if simulation. https://github.com/batfish/batfish
+- **Uptime Kuma** — self-hosted uptime & service monitoring. https://github.com/louislam/uptime-kuma
+- **Homepage** — configurable homelab dashboard with service integrations. https://github.com/gethomepage/homepage
+- **Dockge** — reactive self-hosted Docker Compose stack manager. https://github.com/louislam/dockge
+
+### Agentic AI, Loop & Harness Engineering
+
+- **CrewAI** — role-based multi-agent orchestration for Python. https://github.com/crewAIInc/crewAI
+- **LangGraph** — graph-based stateful agent workflows with checkpoints. https://github.com/langchain-ai/langgraph
+- **AutoGen** — Microsoft multi-agent conversation framework. https://github.com/microsoft/autogen
+- **smolagents** — minimal Hugging Face library for code-writing agents. https://github.com/huggingface/smolagents
+- **Pydantic AI** — type-safe agent framework from the Pydantic team. https://github.com/pydantic/pydantic-ai
+- **OpenAI Agents SDK** — lightweight Python SDK for multi-agent workflows. https://github.com/openai/openai-agents-python
+- **Agno** — fast model-agnostic SDK for multimodal agents (ex-phidata). https://github.com/agno-agi/agno
+- **Letta** — stateful agents with long-term memory (ex-MemGPT). https://github.com/letta-ai/letta
+- **Mastra** — opinionated TypeScript agent framework w/ RAG + MCP. https://github.com/mastra-ai/mastra
+- **Langfuse** — open-source LLM observability, evals, prompt mgmt. https://github.com/langfuse/langfuse
+- **Opik** — Comet's LLM tracing, evaluation, monitoring platform. https://github.com/comet-ml/opik
+- **Phoenix** — Arize open-source LLM tracing and evaluation. https://github.com/Arize-ai/phoenix
+- **promptfoo** — local-first CLI for prompt/RAG/agent evals. https://github.com/promptfoo/promptfoo
+- **DeepEval** — LLM evaluation framework with 50+ metrics. https://github.com/confident-ai/deepeval
+- **Ragas** — reference-free metrics for evaluating RAG pipelines. https://github.com/explodinggradients/ragas
+- **browser-use** — let LLM agents drive a real browser. https://github.com/browser-use/browser-use
+- **Stagehand** — Playwright automation with natural-language actions. https://github.com/browserbase/stagehand
+- **DBOS Transact** — durable execution & checkpointed workflows on Postgres. https://github.com/dbos-inc/dbos-transact-py
+- **Serena** — semantic code retrieval/editing MCP toolkit. https://github.com/oraios/serena
+- **FastMCP** — Pythonic framework for building MCP servers fast. https://github.com/jlowin/fastmcp
+
+### DevOps, CI/CD & Platform Engineering
+
+- **Dagger** — programmable CI/CD pipelines that run in containers. https://github.com/dagger/dagger
+- **act** — run your GitHub Actions workflows locally. https://github.com/nektos/act
+- **Woodpecker CI** — simple, extensible container-native CI/CD. https://github.com/woodpecker-ci/woodpecker
+- **Flux** — GitOps continuous delivery toolkit for Kubernetes. https://github.com/fluxcd/flux2
+- **SOPS** — encrypt secrets in YAML/JSON files for git. https://github.com/getsops/sops
+- **Infisical** — open-source secrets management and sync. https://github.com/Infisical/infisical
+- **Trivy** — vulnerability & misconfig scanner for containers/IaC. https://github.com/aquasecurity/trivy
+- **dive** — explore Docker image layers and shrink size. https://github.com/wagoodman/dive
+- **lazydocker** — terminal UI for managing Docker and Compose. https://github.com/jesseduffield/lazydocker
+- **Podman** — daemonless container engine, Docker drop-in. https://github.com/containers/podman
+- **BuildKit** — concurrent, cache-efficient container image builder. https://github.com/moby/buildkit
+- **Loki** — horizontally scalable, label-based log aggregation. https://github.com/grafana/loki
+- **OpenTelemetry Collector** — vendor-agnostic traces/metrics/logs collector. https://github.com/open-telemetry/opentelemetry-collector
+- **Vector** — high-performance observability data pipeline. https://github.com/vectordotdev/vector
+- **SigNoz** — open-source Datadog alternative (metrics/traces/logs). https://github.com/SigNoz/signoz
+- **Backstage** — open platform for building developer portals. https://github.com/backstage/backstage
+- **Crossplane** — manage cloud infra via Kubernetes APIs. https://github.com/crossplane/crossplane
+- **Kestra** — event-driven orchestration and scheduling. https://github.com/kestra-io/kestra
+- **OPA** — general-purpose policy engine (Rego language). https://github.com/open-policy-agent/opa
+- **Kyverno** — Kubernetes-native policy management, no new language. https://github.com/kyverno/kyverno
+
+### Website Design, Frontend & Animation
+
+- **Radix UI** — unstyled accessible React primitives. https://github.com/radix-ui/primitives
+- **Mantine** — full-featured React component + hooks library. https://github.com/mantinedev/mantine
+- **daisyUI** — Tailwind component library with semantic classes. https://github.com/saadeghi/daisyui
+- **Headless UI** — unstyled accessible components for React/Vue. https://github.com/tailwindlabs/headlessui
+- **Ark UI** — headless components for React/Vue/Solid/Svelte. https://github.com/chakra-ui/ark
+- **Chakra UI** — accessible modular React component system. https://github.com/chakra-ui/chakra-ui
+- **Motion** — modern animation library for React & JS (ex-Framer Motion). https://github.com/motiondivision/motion
+- **AutoAnimate** — one-line zero-config drop-in animation utility. https://github.com/formkit/auto-animate
+- **anime.js** — lightweight JavaScript animation engine. https://github.com/juliangarnier/anime
+- **Lottie Web** — render After Effects animations on the web. https://github.com/airbnb/lottie-web
+- **Magic UI** — animated copy-paste components for design engineers. https://github.com/magicuidesign/magicui
+- **Lucide** — consistent open-source SVG icon toolkit. https://github.com/lucide-icons/lucide
+- **Tabler Icons** — 5000+ free MIT-licensed SVG icons. https://github.com/tabler/tabler-icons
+- **Heroicons** — hand-crafted SVG icons by the Tailwind team. https://github.com/tailwindlabs/heroicons
+- **Open Props** — CSS custom properties for adaptive design. https://github.com/argyleink/open-props
+- **UnoCSS** — instant on-demand atomic CSS engine. https://github.com/unocss/unocss
+- **Penpot** — open-source design & prototyping platform. https://github.com/penpot/penpot
+- **Astro** — content-driven web framework, island architecture. https://github.com/withastro/astro
+- **Svelte** — compiler-based reactive UI framework, no virtual DOM. https://github.com/sveltejs/svelte
+- **Qwik** — resumable framework with zero-hydration instant loading. https://github.com/QwikDev/qwik
+- **htmx** — HTML-driven interactivity with minimal JavaScript. https://github.com/bigskysoftware/htmx
+
+### Creating Media — video, audio & image
+
+- **SD WebUI Forge** — optimized Stable Diffusion image generation UI. https://github.com/lllyasviel/stable-diffusion-webui-forge
+- **Fooocus** — simplified, prompt-focused image generator. https://github.com/lllyasviel/Fooocus
+- **WhisperX** — fast speech-to-text w/ word-level timestamps + diarization. https://github.com/m-bain/whisperX
+- **OpenVoice** — instant voice cloning and TTS synthesis. https://github.com/myshell-ai/OpenVoice
+- **Demucs** — state-of-the-art music source separation (stems). https://github.com/adefossez/demucs
+- **HandBrake** — open-source video transcoder for many formats. https://github.com/HandBrake/HandBrake
+- **Remotion** — create videos programmatically in React. https://github.com/remotion-dev/remotion
+- **Revideo** — programmatic video editing via TypeScript code. https://github.com/midrender/revideo
+- **Audacity** — cross-platform multitrack audio editor. https://github.com/audacity/audacity
+- **Kdenlive** — open-source non-linear video editor (KDE). https://github.com/KDE/kdenlive
+- **Real-ESRGAN** — practical image/video super-resolution upscaling. https://github.com/xinntao/Real-ESRGAN
+- **rembg** — remove image backgrounds automatically. https://github.com/danielgatis/rembg
+- **Upscayl** — free AI image upscaler desktop app. https://github.com/upscayl/upscayl
+
+### Social Media, Marketing & Analytics
+
+- **Postiz** — open-source social media scheduling & management. https://github.com/gitroomhq/postiz-app
+- **Mixpost** — self-hosted social media management platform. https://github.com/inovector/mixpost
+- **PostHog** — open-source product analytics, session replay, flags. https://github.com/PostHog/posthog
+- **Plausible** — lightweight, privacy-friendly analytics. https://github.com/plausible/analytics
+- **Umami** — simple, privacy-focused self-hosted web analytics. https://github.com/umami-software/umami
+- **Matomo** — full-featured open-source web analytics. https://github.com/matomo-org/matomo
+- **Listmonk** — self-hosted newsletter and mailing-list manager. https://github.com/knadh/listmonk
+- **Mautic** — open-source marketing automation platform. https://github.com/mautic/mautic
+- **OpenReplay** — self-hosted session replay & product analytics. https://github.com/openreplay/openreplay
+- **GrowthBook** — open-source feature flags and A/B testing. https://github.com/growthbook/growthbook
