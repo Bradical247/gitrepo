@@ -891,4 +891,92 @@ videos about open source, AI agents, and developer tooling — plus a curated
 
 - **Baby Buddy** — tracks infant sleep, feedings, diapers, tummy time. https://github.com/babybuddy/babybuddy
 - **Grocy** — self-hosted groceries & household "ERP beyond your fridge". https://github.com/grocy/grocy
+
+---
+
+## Music production — DAWs, synths, AI & audio tooling
+
+Production-focused complement to the self-hosted **Music** section above (which covers
+streaming servers and library management). Excludes already-listed Ardour, LMMS, Sonic Pi,
+Audacity, Demucs, OpenVoice.
+
+### DAWs, trackers & sequencers
+
+- **Zrythm** — automated cross-platform DAW (Qt/JUCE); official GitHub mirror, dev on GitLab. https://github.com/zrythm/zrythm
+- **Hydrogen** — pattern-based drum machine and sequencer. https://github.com/hydrogen-music/hydrogen
+- **Giada** — minimal hardcore loop machine and live sampler. https://github.com/monocasual/giada
+- **Helio** — libre linear/pattern sequencer for desktop and mobile. https://github.com/helio-fm/helio-workstation
+- **radium** — unconventional DAW with a graphical block editor. https://github.com/kmatheussen/radium
+- **OpenMPT** — mod/tracker module editor and player (Windows). https://github.com/OpenMPT/openmpt
+- **MilkyTracker** — cross-platform FastTracker 2-compatible chiptune tracker. https://github.com/milkytracker/MilkyTracker
+- **Furnace** — multi-system chiptune tracker (FamiTracker-style). https://github.com/tildearrow/furnace
+- **Schism Tracker** — free Impulse Tracker 2 clone. https://github.com/schismtracker/schismtracker
+- **klystrack** — chiptune tracker for the cynthia/cyd synth. https://github.com/kometbomb/klystrack
+
+### Synths, samplers & plugins
+
+- **Surge XT** — hybrid wavetable/FM synth, huge preset library (CLAP/VST3). https://github.com/surge-synthesizer/surge
+- **Vital** — spectral-warping wavetable synthesizer (Vitalium open build). https://github.com/mtytel/vital
+- **Helm** — free polyphonic subtractive software synthesizer. https://github.com/mtytel/helm
+- **Dexed** — Yamaha DX7-style 6-operator FM synth/editor. https://github.com/asb2m10/dexed
+- **Odin 2** — 24-voice analog-modeled polyphonic synthesizer. https://github.com/TheWaveWarden/odin2
+- **ZynAddSubFX** — powerful additive/subtractive/PAD soft-synth. https://github.com/zynaddsubfx/zynaddsubfx
+- **Yoshimi** — ZynAddSubFX fork in continuous development (Linux). https://github.com/Yoshimi/yoshimi
+- **OB-Xf** — modernized open-source Oberheim OB-X synth (OB-Xd successor). https://github.com/surge-synthesizer/OB-Xf
+- **VCV Rack** — Eurorack modular synthesizer simulator. https://github.com/VCVRack/Rack
+- **Cardinal** — VCV-Rack-based plugin, fully self-contained (CLAP/VST3/LV2). https://github.com/DISTRHO/Cardinal
+- **sfizz** — SFZ sampler/instrument player as LV2/VST plugin. https://github.com/sfztools/sfizz
+- **Geonkick** — percussion synthesizer for kicks, snares, hi-hats. https://github.com/Geonkick-Synthesizer/geonkick
+- **Dragonfly Reverb** — set of free hall/room/plate reverb plugins. https://github.com/michaelwillis/dragonfly-reverb
+- **LSP Plugins** — large suite of pro audio processing plugins. https://github.com/lsp-plugins/lsp-plugins
+- **Calf Studio Gear** — classic LV2 effects and instrument pack. https://github.com/calf-studio-gear/calf
+- **Airwindows Consolidated** — 350+ Airwindows effects in one plugin. https://github.com/baconpaul/airwin2rack
+
+### AI music & audio ML
+
+- **AudioCraft** — Meta's MusicGen/AudioGen text-to-music models. https://github.com/facebookresearch/audiocraft
+- **Magenta** — Google music/art generation with TensorFlow. https://github.com/magenta/magenta
+- **DDSP** — differentiable DSP for neural audio synthesis. https://github.com/magenta/ddsp
+- **Stable Audio Tools** — Stability AI generative audio model training/inference. https://github.com/Stability-AI/stable-audio-tools
+- **Riffusion** — real-time music generation via stable diffusion spectrograms. https://github.com/riffusion/riffusion-hobby
+- **Spleeter** — Deezer's fast stem source separation. https://github.com/deezer/spleeter
+- **Basic Pitch** — Spotify lightweight audio-to-MIDI transcription. https://github.com/spotify/basic-pitch
+- **Pedalboard** — Spotify Python library for audio effects/processing. https://github.com/spotify/pedalboard
+- **Bark** — Suno text-to-audio with music, SFX and voices. https://github.com/suno-ai/bark
+- **RVC WebUI** — retrieval-based real-time voice conversion. https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI
+- **so-vits-svc** — singing-voice conversion (SoftVC VITS). https://github.com/svc-develop-team/so-vits-svc
+- **Coqui TTS** — deep-learning text-to-speech / voice toolkit. https://github.com/coqui-ai/TTS
+- **ACE-Step** — open foundation model for full music generation. https://github.com/ace-step/ACE-Step
+- **YuE** — open full-song lyrics-to-music generation model. https://github.com/multimodal-art-projection/YuE
+
+### Audio analysis & MIR
+
+- **librosa** — Python library for music and audio analysis. https://github.com/librosa/librosa
+- **Essentia** — C++/Python audio analysis and MIR toolkit. https://github.com/MTG/essentia
+- **madmom** — Python audio signal processing for MIR (beats, onsets). https://github.com/CPJKU/madmom
+- **Sonic Visualiser** — app for viewing and analysing music recordings. https://github.com/sonic-visualiser/sonic-visualiser
+
+### Notation & live coding
+
+- **MuseScore** — leading open-source music notation/scorewriter. https://github.com/musescore/MuseScore
+- **LilyPond** — text-based engraving program for beautiful sheet music. https://github.com/lilypond/lilypond
+- **SuperCollider** — platform for audio synthesis and algorithmic composition. https://github.com/supercollider/supercollider
+- **Pure Data** — visual dataflow language for real-time audio. https://github.com/pure-data/pure-data
+- **Csound** — venerable sound/music computing system. https://github.com/csound/csound
+- **ChucK** — strongly-timed concurrent audio programming language. https://github.com/ccrma/chuck
+- **TidalCycles** — Haskell pattern language for live-coding music. https://github.com/tidalcycles/Tidal
+- **Strudel** — JS port of TidalCycles for browser live coding; GitHub archived, dev on Codeberg. https://github.com/tidalcycles/strudel
+- **Glicol** — graph-oriented live-coding language/DSP library in Rust. https://github.com/chaosprint/glicol
+
+### Audio engines & plugin frameworks
+
+- **JUCE** — C++ framework for cross-platform audio apps/plugins. https://github.com/juce-framework/JUCE
+- **iPlug2** — lightweight C++ audio plugin and app framework. https://github.com/iPlug2/iPlug2
+- **DPF** — DISTRHO minimal plugin framework (LV2/VST/CLAP). https://github.com/DISTRHO/DPF
+- **FAUST** — functional language for real-time signal processing. https://github.com/grame-cncm/faust
+- **FluidSynth** — real-time SoundFont (SF2) software synthesizer. https://github.com/FluidSynth/fluidsynth
+- **PortAudio** — cross-platform audio I/O library. https://github.com/PortAudio/portaudio
+- **RtMidi** — cross-platform realtime MIDI I/O C++ classes. https://github.com/thestk/rtmidi
+- **miniaudio** — single-file cross-platform audio playback/capture library. https://github.com/mackron/miniaudio
+- **Tone.js** — Web Audio framework for interactive browser music. https://github.com/Tonejs/Tone.js
 - **Donetick** — collaborative chore/task manager w/ scheduling + gamification. https://github.com/donetick/donetick
