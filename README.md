@@ -1,51 +1,3 @@
-Ponytail
-video-use
-ccstatusline
-excalidraw diagram skill
-Build-you-own-X
-App-ideas
-Projectlearn
-Project-based-learning
-AmbientCanvasBachgrounds
-get-shit-done
-gsap-skills
-project-ideas-resources
-public-apis
-perspective
-pbakaus/impeccable
-msitarzewski/agency-agents
-spec-kit
-modelcontextprotocol/servers
-mem0ai/mem0
-yamadashy/repomix
-fallow
-awesomedesign.md
-Acontext
-vibe-code-pro-max-kit
-faker-js/faker
-ryoppippi/ccusage
-nextlevelbuilder/ui-ux-pro-max-skill
-carizentos/design-motion-principles
-hailuo - video creation
-loveart - canva alt.
-Minimax - voice generation
-21st.dev - magic mcp server - wwebsite creation.
-huemint.com = color palletes for websites
-diagrams.net (draw.io)
-shadcn/ui
-three.js/animations
-flutter/animations
-css/css-animations
-ui-animation.de/Ui-Animation
-playwrieght mcp
-firecrawl
-glif
-chromedevtools/devtools-logo
-chromeDevTools
-ppl-ai/modelcontextprotocol
-
-
-
 # GitHub Repos from YouTube Transcripts
 
 A running index of every GitHub project / repo mentioned across YouTube
@@ -239,6 +191,82 @@ videos about open source, AI agents, and developer tooling — plus a curated
 - **Nmap** — network discovery & security scanning. https://github.com/nmap/nmap
 - **trippy** — modern traceroute + ping TUI. https://github.com/fujiapple852/trippy
 - **bandwhich** — terminal bandwidth usage by process. https://github.com/imsnif/bandwhich
+
+---
+
+## More repos & tools — AI coding skills, agents & design
+
+> Added from a second pass of notes. Same confidence convention: 🟡 = likely
+> match, worth a glance. Owner-name corrections from the notes are noted inline.
+
+### AI coding skills & agent harnesses
+
+| Project | What it is |
+|---|---|
+| [Ponytail](https://github.com/DietrichGebert/ponytail) | Agent skill enforcing minimal-code "laziest senior dev" decisions |
+| [video-use](https://github.com/browser-use/video-use) | Edit videos with coding agents — drop footage, get final.mp4 |
+| [ccstatusline](https://github.com/sirmalloc/ccstatusline) | Customizable Claude Code statusline (powerline, themes, metrics) |
+| [ccusage](https://github.com/ryoppippi/ccusage) | CLI to analyze Claude Code token usage and cost |
+| [excalidraw-diagram-skill](https://github.com/coleam00/excalidraw-diagram-skill) | Skill giving agents Excalidraw diagram generation with self-correction |
+| [get-shit-done](https://github.com/gsd-build/get-shit-done) | Spec-driven context-engineering meta-prompting system for Claude Code |
+| [gsap-skills](https://github.com/greensock/gsap-skills) | Official GSAP AI skills teaching agents correct animation usage |
+| [spec-kit](https://github.com/github/spec-kit) | GitHub's toolkit for spec-driven development with AI agents |
+| [impeccable](https://github.com/pbakaus/impeccable) | Design-language skill making AI harnesses better at design |
+| [agency-agents](https://github.com/msitarzewski/agency-agents) | Specialized, personality-driven AI agency agents for coding tools |
+| [vibecode-pro-max-kit](https://github.com/withkynam/vibecode-pro-max-kit) | Spec-driven coding harness w/ persistent context, agents, skills |
+| [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | AI skill giving design intelligence for professional UI/UX |
+| [design-motion-principles](https://github.com/kylezantos/design-motion-principles) 🟡 | Motion-design skill to build/audit purposeful animation (owner is kylezantos) |
+| [Acontext](https://github.com/memodb-io/Acontext) | Open-source context layer for AI-agent self-learning |
+| [mem0](https://github.com/mem0ai/mem0) | Memory layer adding long-term recall to AI agents |
+| [fallow](https://github.com/fallow-rs/fallow) | Rust-native codebase intelligence (dead code, dupes, deps) for TS/JS |
+
+### MCP servers & dev tooling
+
+| Project | What it is |
+|---|---|
+| [mcp servers](https://github.com/modelcontextprotocol/servers) | Reference MCP server implementations for Model Context Protocol |
+| [repomix](https://github.com/yamadashy/repomix) | Packs a whole repo into one LLM-friendly file |
+| [faker](https://github.com/faker-js/faker) | Generates fake/mock data for testing and seeding |
+| [playwright-mcp](https://github.com/microsoft/playwright-mcp) | Microsoft MCP server for browser automation via Playwright |
+| [firecrawl](https://github.com/firecrawl/firecrawl) | Web scraping/crawling API turning sites into LLM-ready data |
+| [glif-mcp-server](https://github.com/glifxyz/glif-mcp-server) | MCP server to run glif.app no-code AI workflows |
+| [Perplexity MCP](https://github.com/ppl-ai/modelcontextprotocol) 🟡 | Perplexity Sonar API MCP server (mirror: perplexityai/modelcontextprotocol) |
+| [Magic MCP (21st.dev)](https://github.com/21st-dev/magic-mcp) | AI UI-component generator / Magic MCP server for IDEs |
+
+### Design, UI & animation
+
+| Project | What it is |
+|---|---|
+| [shadcn/ui](https://github.com/shadcn-ui/ui) | Copy-paste accessible React components + code-distribution platform |
+| [three.js](https://github.com/mrdoob/three.js) | JavaScript WebGL 3D library with an animation system |
+| [flutter](https://github.com/flutter/flutter) | Google's cross-platform UI toolkit with rich animation APIs |
+| [animate.css](https://github.com/animate-css/animate.css) | Cross-browser library of ready-to-use CSS animations |
+| [AmbientCanvasBackgrounds](https://github.com/crnacura/AmbientCanvasBackgrounds) | Five ambient HTML5 Canvas page backgrounds using Simplex noise |
+| [awesome-design-md](https://github.com/VoltAgent/awesome-design-md) 🟡 | Collection of DESIGN.md files capturing popular brand systems |
+| [drawio](https://github.com/jgraph/drawio) | Open-source diagramming editor behind diagrams.net / draw.io |
+| [devtools-frontend](https://github.com/ChromeDevTools/devtools-frontend) | The Chrome DevTools UI frontend source |
+| [devtools-logo](https://github.com/ChromeDevTools/devtools-logo) | Official Chrome DevTools logo and brand assets |
+
+### Learn & idea lists
+
+| Project | What it is |
+|---|---|
+| [app-ideas](https://github.com/florinpop17/app-ideas) | Application ideas to improve coding skills |
+| [projectlearn](https://github.com/Xtremilicious/projectlearn-project-based-learning) | Curated project tutorials for project-based learning |
+| [Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) 🟡 | Collection of app project ideas to improve coding skills |
+| [perspective](https://github.com/finos/perspective) 🟡 | Interactive analytics/data-viz for large or streaming datasets |
+
+### Tools / sites (no single repo)
+
+| Tool | What it is |
+|---|---|
+| [hailuo](https://hailuoai.video) | AI text/image-to-video generation (by MiniMax) |
+| [MiniMax](https://www.minimax.io) 🟡 | AI platform: voice/speech, video, and LLM models |
+| [Lovart](https://www.lovart.ai) 🟡 | AI design agent positioned as a Canva alternative |
+| [huemint](https://huemint.com) | ML color-palette generator for brands and websites |
+
+> **Couldn't verify:** `ui-animation.de / Ui-Animation` — domain unreachable, not
+> indexed; left out pending a working link.
 
 ---
 
