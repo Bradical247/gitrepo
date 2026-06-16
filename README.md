@@ -573,3 +573,151 @@ videos about open source, AI agents, and developer tooling — plus a curated
 - **CrowdSec** — collaborative behavior-based intrusion prevention. https://github.com/crowdsecurity/crowdsec
 - **Teleport** — identity-aware access for servers, k8s, databases. https://github.com/gravitational/teleport
 - **OpenBao** — community fork of Vault for secrets/key management. https://github.com/openbao/openbao
+
+---
+
+## Build-anything toolbox II — more sectors
+
+> Second research pass (verified June 2026). Deeper verticals: legal, science,
+> hardware, commerce ops, web3 and more.
+
+### Legal, civic & govtech
+
+- **docassemble** — guided-interview platform for legal document assembly. https://github.com/jhpyle/docassemble
+- **CONSUL Democracy** — citizen participation & open-government platform. https://github.com/consuldemocracy/consuldemocracy
+- **Decidim** — participatory democracy framework for cities/orgs. https://github.com/decidim/decidim
+- **CKAN** — data management system for government open-data portals. https://github.com/ckan/ckan
+- **OpenFisca** — rules-as-code engine for tax/benefit microsimulation. https://github.com/openfisca/openfisca-core
+- **Accord Project Cicero** — templating engine for executable legal contracts. https://github.com/accordproject/cicero
+- **Blawx** — web tool for Rules-as-Code legal reasoning. https://github.com/Lexpedite/blawx
+- **A2J Author** — access-to-justice guided interviews + court docs. https://github.com/CCALI/a2jauthor
+- **GOV.UK Frontend** — design system for UK government services. https://github.com/alphagov/govuk-frontend
+
+### Writing, publishing & CMS
+
+- **Ghost** — Node.js publishing platform for blogs/newsletters. https://github.com/TryGhost/Ghost
+- **Strapi** — open-source headless CMS with customizable APIs. https://github.com/strapi/strapi
+- **Directus** — headless CMS + data platform over any SQL DB. https://github.com/directus/directus
+- **Payload** — TypeScript-native headless CMS + app framework. https://github.com/payloadcms/payload
+- **Wagtail** — Django-based CMS for editors. https://github.com/wagtail/wagtail
+- **Hugo** — fast static-site generator written in Go. https://github.com/gohugoio/hugo
+- **Eleventy** — simpler JavaScript static-site generator. https://github.com/11ty/eleventy
+- **Docusaurus** — React static generator for documentation sites. https://github.com/facebook/docusaurus
+- **Decap CMS** — git-based headless CMS (formerly Netlify CMS). https://github.com/decaporg/decap-cms
+
+### Travel, events, food & recipes
+
+- **Tandoor Recipes** — self-hosted recipe manager + meal planner. https://github.com/TandoorRecipes/recipes
+- **Mealie** — self-hosted recipe manager w/ URL import. https://github.com/mealie-recipes/mealie
+- **grocy** — self-hosted groceries & household management. https://github.com/grocy/grocy
+- **pretix** — ticket shop for conferences, festivals, events. https://github.com/pretix/pretix
+- **Hi.Events** — self-hosted event ticketing, Eventbrite alternative. https://github.com/HiEventsDev/hi.events
+- **Alf.io** — open-source ticket reservation for conferences. https://github.com/alfio-event/alf.io
+- **Easy!Appointments** — self-hosted scheduling w/ Google Calendar sync. https://github.com/alextselegidis/easyappointments
+- **OpenTripPlanner** — open-source multi-modal transit/trip planner. https://github.com/opentripplanner/OpenTripPlanner
+- **AdventureLog** — self-hostable travel tracker and trip planner. https://github.com/seanmorley15/AdventureLog
+
+### Agriculture, climate & energy
+
+- **emoncms** — log/visualise energy & environmental data. https://github.com/emoncms/emoncms
+- **OpenRemote** — 100% open-source IoT platform for devices/apps. https://github.com/openremote/openremote
+- **evcc** — extensible EV charge controller + home energy mgmt. https://github.com/evcc-io/evcc
+- **Tasmota** — alt firmware for ESP smart-energy/IoT devices. https://github.com/arendst/Tasmota
+- **farmOS** — web-based farm management, planning, records. https://github.com/farmOS/farmOS
+- **pvlib-python** — toolbox for simulating PV solar energy systems. https://github.com/pvlib/pvlib-python
+- **OpenEMS** — modular platform for storage, renewables, EV chargers. https://github.com/OpenEMS/openems
+- **Open-Meteo** — open-source weather/climate forecast API, no key. https://github.com/open-meteo/open-meteo
+- **FarmBot Web App** — UI + API to control FarmBot farming robots. https://github.com/FarmBot/Farmbot-Web-App
+
+### Manufacturing, CAD & hardware
+
+- **FreeCAD** — open-source parametric 3D CAD modeler. https://github.com/FreeCAD/FreeCAD
+- **OpenSCAD** — script-driven solid 3D CAD modeller. https://github.com/openscad/openscad
+- **KiCad** — EDA suite for schematics and PCB design. https://github.com/KiCad/kicad-source-mirror
+- **PrusaSlicer** — G-code slicer for FFF/SLA 3D printers. https://github.com/prusa3d/PrusaSlicer
+- **Cura** — Ultimaker's popular 3D-printing slicer. https://github.com/Ultimaker/Cura
+- **OctoPrint** — web interface to control/monitor 3D printers. https://github.com/OctoPrint/OctoPrint
+- **Klipper** — high-performance firmware for 3D printers. https://github.com/Klipper3d/klipper
+- **Marlin** — optimized firmware for RepRap 3D printers. https://github.com/MarlinFirmware/Marlin
+- **CadQuery** — Python library for parametric, scriptable CAD. https://github.com/CadQuery/cadquery
+
+### Science & research
+
+- **Biopython** — Python tools for computational molecular biology. https://github.com/biopython/biopython
+- **Scanpy** — single-cell gene expression analysis in Python. https://github.com/scverse/scanpy
+- **SAMtools** — manipulate SAM/BAM sequence alignments. https://github.com/samtools/samtools
+- **Nextflow** — reproducible scientific workflow/pipeline orchestration. https://github.com/nextflow-io/nextflow
+- **Galaxy** — web platform for reproducible biomedical research. https://github.com/galaxyproject/galaxy
+- **RDKit** — cheminformatics and machine-learning toolkit. https://github.com/rdkit/rdkit
+- **Open Babel** — chemical toolbox converting molecular formats. https://github.com/openbabel/openbabel
+- **Astropy** — core Python library for astronomy/astrophysics. https://github.com/astropy/astropy
+- **SunPy** — Python library for solar physics data analysis. https://github.com/sunpy/sunpy
+
+### Support, helpdesk, forms & feedback
+
+- **Chatwoot** — open-source customer engagement, live chat, inbox. https://github.com/chatwoot/chatwoot
+- **Zammad** — web-based helpdesk and ticketing system. https://github.com/zammad/zammad
+- **FreeScout** — free shared-inbox helpdesk, Help Scout alternative. https://github.com/freescout-helpdesk/freescout
+- **osTicket** — classic open-source support ticketing. https://github.com/osTicket/osTicket
+- **Peppermint** — self-hosted ticket management, Zendesk alternative. https://github.com/Peppermint-Lab/peppermint
+- **Formbricks** — open-source surveys, Typeform alternative. https://github.com/formbricks/formbricks
+- **Typebot** — self-hostable conversational form/chatbot builder. https://github.com/baptisteArno/typebot.io
+- **Fider** — collect and prioritize feature feedback. https://github.com/getfider/fider
+- **LimeSurvey** — open-source survey platform, SurveyMonkey alternative. https://github.com/LimeSurvey/LimeSurvey
+
+### Recruitment & scheduling
+
+- **OpenCATS** — open-source applicant tracking system. https://github.com/opencats/OpenCATS
+- **OrangeHRM** — open-source HRM with recruitment ATS module. https://github.com/orangehrm/orangehrm
+- **TimeOff.Management** — self-hosted employee absence/leave mgmt. https://github.com/timeoff-management/timeoff-management-application
+- **Rallly** — group scheduling and meeting-poll tool. https://github.com/lukevella/rallly
+- **Mobilizon** — federated event organizing and RSVP platform. https://github.com/framasoft/mobilizon
+- **OpenResume** — open-source resume builder + ATS-friendly parser. https://github.com/xitanggg/open-resume
+- **JobSync** — self-hosted job-application tracker w/ AI assistant. https://github.com/Gsync/jobsync
+
+### Backend, APIs & databases
+
+- **Appwrite** — open-source backend-as-a-service for web/mobile. https://github.com/appwrite/appwrite
+- **PocketBase** — single-file Go backend w/ DB, auth, storage. https://github.com/pocketbase/pocketbase
+- **Hasura** — instant realtime GraphQL APIs over Postgres. https://github.com/hasura/graphql-engine
+- **PostgREST** — serves a REST API directly from PostgreSQL. https://github.com/PostgREST/postgrest
+- **NocoDB** — open-source Airtable alternative over databases. https://github.com/nocodb/nocodb
+- **Drizzle ORM** — lightweight TypeScript SQL ORM for serverless. https://github.com/drizzle-team/drizzle-orm
+- **SurrealDB** — multi-model scalable database for modern apps. https://github.com/surrealdb/surrealdb
+- **Apache APISIX** — dynamic, high-performance cloud-native API gateway. https://github.com/apache/apisix
+
+### Search & vector databases
+
+- **Meilisearch** — fast, typo-tolerant full-text search engine. https://github.com/meilisearch/meilisearch
+- **Typesense** — fast search engine; Algolia/Elasticsearch alternative. https://github.com/typesense/typesense
+- **Quickwit** — cloud-native search for logs and observability. https://github.com/quickwit-oss/quickwit
+- **Qdrant** — high-performance vector DB and similarity search. https://github.com/qdrant/qdrant
+- **Weaviate** — open-source vector database with built-in ML. https://github.com/weaviate/weaviate
+- **Milvus** — scalable vector database for AI and embeddings. https://github.com/milvus-io/milvus
+- **Chroma** — embedding database for building LLM/RAG apps. https://github.com/chroma-core/chroma
+- **pgvector** — vector similarity search extension for PostgreSQL. https://github.com/pgvector/pgvector
+- **RAGFlow** — open-source RAG engine w/ deep document understanding. https://github.com/infiniflow/ragflow
+
+### Crypto & web3
+
+- **viem** — lightweight, typed TypeScript interface for Ethereum. https://github.com/wevm/viem
+- **wagmi** — React Hooks for Ethereum wallet + contract interaction. https://github.com/wevm/wagmi
+- **Foundry** — blazing-fast Solidity toolkit in Rust. https://github.com/foundry-rs/foundry
+- **Hardhat** — Ethereum dev environment for compile/test/debug. https://github.com/NomicFoundation/hardhat
+- **OpenZeppelin Contracts** — battle-tested secure smart-contract library. https://github.com/OpenZeppelin/openzeppelin-contracts
+- **ethers.js** — complete, compact JS library for Ethereum. https://github.com/ethers-io/ethers.js
+- **Scaffold-ETH 2** — toolkit for building dApps on Ethereum. https://github.com/scaffold-eth/scaffold-eth-2
+- **RainbowKit** — React library for wallet connection in dApps. https://github.com/rainbow-me/rainbowkit
+- **Reown AppKit** — onchain app UX toolkit (formerly WalletConnect). https://github.com/reown-com/appkit
+
+### Wellbeing, mobility & nonprofit
+
+- **jrnl** — simple command-line journal with plain-text storage. https://github.com/jrnl-org/jrnl
+- **Memos** — privacy-first self-hosted note-taking/journaling. https://github.com/usememos/memos
+- **Joplin** — open-source note/to-do app with E2E encryption. https://github.com/laurent22/joplin
+- **SiYuan** — privacy-first personal knowledge management notebook. https://github.com/siyuan-note/siyuan
+- **Medito** — 100% free open-source meditation app (Flutter). https://github.com/meditohq/medito-app
+- **openpilot** — open-source driver-assistance for many car models. https://github.com/commaai/openpilot
+- **Ushahidi Platform** — crowdsourcing for crisis mapping & reporting. https://github.com/ushahidi/platform
+- **Houdini Project** — free open-source fundraising infra for nonprofits. https://github.com/houdiniproject/houdini
+- **Open Collective** — transparent crowdfunding/finance for communities. https://github.com/opencollective/opencollective
