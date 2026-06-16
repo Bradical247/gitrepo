@@ -41,6 +41,10 @@ Top-to-bottom sections:
    design, media, social/marketing.
 6. **Build-anything toolbox I / II / III** — repos by sector, the bulk of the
    index (~42 sectors, 600+ links total). Each toolbox is one research pass.
+7. **Music production** — deep-dive on one domain (DAWs/trackers, synths &
+   plugins, AI audio ML, MIR, notation/live-coding, audio engines/frameworks);
+   50 repos, production-focused, complements the self-hosted **Music** subsection
+   (streaming servers / library management).
 
 ## Conventions
 
