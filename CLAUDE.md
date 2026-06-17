@@ -39,8 +39,9 @@ Top-to-bottom sections:
    from a scratch list).
 5. **Curated picks by domain** — networking, agentic AI/harness, DevOps, web
    design, media, social/marketing.
-6. **Build-anything toolbox I / II / III** — repos by sector, the bulk of the
-   index (~42 sectors, 600+ links total). Each toolbox is one research pass.
+6. **Build-anything toolbox I / II / III / IV** — repos by sector, the bulk of
+   the index (~42 sectors, 600+ links total). Each toolbox is one research pass;
+   IV also folds in a batch of hand-picked adds alongside its trending sweep.
 7. **Music production** — deep-dive on one domain (DAWs/trackers, synths &
    plugins, AI audio ML, MIR, notation/live-coding, audio engines/frameworks);
    50 repos, production-focused, complements the self-hosted **Music** subsection

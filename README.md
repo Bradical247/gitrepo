@@ -980,3 +980,73 @@ Audacity, Demucs, OpenVoice.
 - **miniaudio** — single-file cross-platform audio playback/capture library. https://github.com/mackron/miniaudio
 - **Tone.js** — Web Audio framework for interactive browser music. https://github.com/Tonejs/Tone.js
 - **Donetick** — collaborative chore/task manager w/ scheduling + gamification. https://github.com/donetick/donetick
+
+## Build-anything toolbox IV — hand-picked adds & June 2026 finds
+
+One pass mixing Conrad's hand-picked repos with a *last-30-days* trending sweep
+(verified live, deduped against everything above). 🟡 = worth a glance, owner not
+fully canonical.
+
+### Hand-picked adds — internal tools, design, AI & self-hosted
+
+- **Appsmith** — open-source low-code builder for internal tools/admin panels. https://github.com/appsmithorg/appsmith
+- **Apache Superset** — modern data exploration and BI dashboard platform. https://github.com/apache/superset
+- **DocuSeal** — open-source DocuSign alternative; create, fill, sign PDFs. https://github.com/docusealco/docuseal
+- **Penpot** — web-native open-source design & prototyping, Figma alternative. https://github.com/penpot/penpot
+- **AFFiNE** — local-first Notion + Miro knowledge base / workspace. https://github.com/toeverything/AFFiNE
+- **Cap** — open-source Loom alternative; beautiful shareable screen recordings. https://github.com/CapSoftware/Cap
+- **Qdrant** — high-performance Rust vector database for AI/RAG. https://github.com/qdrant/qdrant
+- **Handy** — free offline speech-to-text dictation app (Whisper/Parakeet). https://github.com/cjpais/Handy
+- **SkillSpector** — NVIDIA security scanner for AI agent skills. https://github.com/NVIDIA/SkillSpector
+- **Voicebox** — local-first AI voice studio; clone, dictate, TTS. https://github.com/jamiepine/voicebox
+- **Open Notebook** — open-source NotebookLM alternative, 18+ AI providers. https://github.com/lfnovo/open-notebook
+- **Dokploy** — self-hosted PaaS; Vercel/Netlify/Heroku alternative. https://github.com/dokploy/dokploy
+
+### Recent finds — AI agents, harnesses & memory
+
+- **OpenClaw** — self-hosted personal AI agent, 50+ integrations. https://github.com/openclaw/openclaw
+- **DeerFlow** — long-horizon SuperAgent harness with sub-agents & sandboxes. https://github.com/bytedance/deer-flow
+- **OpenClaw-RL** — train any agent simply by talking. https://github.com/Gen-Verse/OpenClaw-RL
+- **TradingAgents** — multi-agent LLM trading firm simulation. https://github.com/TauricResearch/TradingAgents
+- **pi-mono (Pi)** — minimal self-rewriting coding-agent harness, sub-1k-token prompt. https://github.com/badlogic/pi-mono
+- **ml-intern** — autonomous ML engineer that reads papers, trains, ships models. https://github.com/huggingface/ml-intern
+- **huggingface/skills** — gives agents the power of the Hugging Face ecosystem. https://github.com/huggingface/skills
+- **chrome-devtools-mcp** — Chrome DevTools live-browser control for coding agents. https://github.com/ChromeDevTools/chrome-devtools-mcp
+- **microsoft/mcp** — catalog of official Microsoft MCP server implementations. https://github.com/microsoft/mcp
+- **PageIndex** — vectorless, reasoning-based RAG; no embeddings or vector DB. https://github.com/VectifyAI/PageIndex
+- **SimpleMem** — efficient lifelong memory for LLM agents, text & multimodal. https://github.com/aiming-lab/SimpleMem
+- **MemOS** — self-evolving memory OS with hybrid retrieval, skill reuse. https://github.com/MemTensor/MemOS
+
+### Recent finds — media, design & notes
+
+- **omniclip** — open-source video editor running fully in the browser. https://github.com/omni-media/omniclip
+- **OpenReel Video** — browser-based CapCut alternative, no uploads or watermarks. https://github.com/Augani/openreel-video
+- **Kiwi-Edit** — natural-language instruction/reference video editing framework. https://github.com/showlab/Kiwi-Edit
+- **withoutbg** — local-first image background removal, offline Focus model. https://github.com/withoutbg/withoutbg
+- **Onlook** — AI-first visual editor for live React/Tailwind apps. https://github.com/onlook-dev/onlook
+- **Open Design** — local-first open-source design tool, native desktop app. https://github.com/nexu-io/open-design
+- **Files.md** — quiet, private app for your .md files; Obsidian alternative. https://github.com/zakirullin/files.md
+- **Poznote** — self-hosted notes; WYSIWYG/Markdown, Mermaid, LaTeX. https://github.com/timothepoznanski/poznote
+- **nanote** — lightweight self-hosted notes, filesystem-based portable storage. https://github.com/omarmir/nanote
+- **Atomic** — local-first AI knowledge graph with MCP endpoint. https://github.com/kenforthewin/atomic
+- **Glean** — self-hosted RSS reader and personal knowledge management. https://github.com/LeslieLeung/glean
+- **LeafWiki** — single Go binary, SQLite, Markdown-on-disk self-hosted wiki. https://github.com/perber/leafwiki
+- **gitdot** — open-source Rust git forge with CLI-inspired navigation. https://github.com/bkdevs/gitdot
+- **BentoPDF** — privacy-first, client-side, self-hostable PDF toolkit. 🟡 https://github.com/alam00000/bentopdf
+
+### Recent finds — DevOps, web, data & observability
+
+- **QuickStack** — self-hostable Vercel/Railway alternative on k3s + Longhorn. https://github.com/biersoeckli/QuickStack
+- **Elysia** — ergonomic Bun-native TypeScript framework, end-to-end types. https://github.com/elysiajs/elysia
+- **Wasp** — batteries-included declarative full-stack framework (React/Node/Prisma). https://github.com/wasp-lang/wasp
+- **Rolldown** — fast Rust bundler, Rollup-compatible API; powers Vite. https://github.com/rolldown/rolldown
+- **Oxc** — high-performance Rust JS/TS toolchain (parser, linter, minifier). https://github.com/oxc-project/oxc
+- **Honker** — Rust SQLite extension adding Postgres NOTIFY/LISTEN, queues, pub/sub. https://github.com/russellromney/honker
+- **DuckLake** — DuckDB data lake + catalog format, SQL-managed metadata. https://github.com/duckdb/ducklake
+- **Lightdash** — agentic, dbt-native BI; analytics at the speed of code. https://github.com/lightdash/lightdash
+- **Evidence** — business intelligence as code in SQL + Markdown. https://github.com/evidence-dev/evidence
+- **HyperDX** — session replays, logs, traces, metrics on ClickHouse + OTel. https://github.com/hyperdxio/hyperdx
+- **OpenObserve** — single-binary logs/metrics/traces/RUM, low storage cost. https://github.com/openobserve/openobserve
+- **OpenLLMetry** — OpenTelemetry-based observability for GenAI/LLM apps. https://github.com/traceloop/openllmetry
+- **Statewright** — state-machine guardrails constraining AI agent tool access. https://github.com/statewright/statewright
+- **jjui** — terminal UI for the Jujutsu version control system. https://github.com/idursun/jjui
