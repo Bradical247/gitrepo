@@ -1080,3 +1080,8 @@ fully canonical.
 - **OpenLLMetry** — OpenTelemetry-based observability for GenAI/LLM apps. https://github.com/traceloop/openllmetry
 - **Statewright** — state-machine guardrails constraining AI agent tool access. https://github.com/statewright/statewright
 - **jjui** — terminal UI for the Jujutsu version control system. https://github.com/idursun/jjui
+
+### Languages, compilers & IDEs
+
+- **Lazarus** — open-source Delphi-equivalent RAD IDE + GUI toolkit for Object Pascal. Official GitHub mirror (dev on GitLab). https://github.com/fpc/Lazarus
+- **Free Pascal (FPC)** — cross-platform Object Pascal compiler powering Lazarus. Official GitHub mirror (dev on GitLab). https://github.com/fpc/FPCSource
