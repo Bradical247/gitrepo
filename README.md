@@ -80,6 +80,26 @@ videos about open source, AI agents, and developer tooling — plus a curated
 | 64 | Wi-Fi router sensing 🔍 | Router as motion/presence/heart sensor — search "WiFi CSI human sensing" |
 | 65 | [Anthropic Cybersecurity Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Catch + fix security issues (community repo, not official Anthropic) |
 | 66 | Cursor Plugins | A Cursor feature/ecosystem (Figma/Notion/etc.), not a standalone repo |
+| 67 | [STORM](https://github.com/stanford-oval/storm) | Stanford OVAL: writes cited Wikipedia-grade articles via multi-perspective Q&A + retrieval (Co-STORM in same repo) |
+| 68 | [apple/container](https://github.com/apple/container) | Run Linux containers + lightweight VMs on Apple silicon (Docker Desktop alt) |
+| 69 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | Free public live-TV channels as M3U playlists (drop into VLC) |
+| 70 | [OpenCut](https://github.com/OpenCut-app/OpenCut) | Open-source CapCut alternative; local timeline video editor (~57k★) |
+| 71 | [music-assistant](https://github.com/music-assistant/server) | Bridges streaming services (Spotify/Apple/YT Music) to speakers; Home Assistant companion |
+| 72 | [NVIDIA SkillSpector](https://github.com/NVIDIA/SkillSpector) | "Antivirus for agent skills" — scans skills for hidden malware, danger score + line numbers |
+| 73 | [marketingskills](https://github.com/coreyhaines31/marketingskills) | Corey Haines' marketing skill pack: SEO, ads, cold email, CRO, growth (heard as "Haynes") |
+| 74 | [mattpocock/skills](https://github.com/mattpocock/skills) | Matt Pocock's personal engineering skills; `/teach` builds stateful tailored HTML lessons |
+| 75 | [Agent-Reach](https://github.com/Panniantong/Agent-Reach) 🟡 | No-API-key agent read/search of tweets/YouTube/Reddit/login-walled sites (most-starred of two same-named repos) |
+
+> **STORM as a method (no code needed):** the Stanford pipeline (#67) can be run
+> by hand in Claude with a 5-prompt chain — (1) discover 6–8 expert perspectives,
+> (2) simulate a cited expert interview per perspective (every claim sourced or
+> marked "unverified"), (3) curate findings into a sourced outline, (4) write
+> section-by-section grounded strictly in collected sources, (5) Co-STORM
+> moderator pass for blind spots + red-team for single-source bias and false
+> connections. Many perspectives = breadth; grounded answers = no hallucination.
+
+> **Already indexed (this video):** Agent Skills (#16), PM Skills (#17),
+> last-30-days (#19), System Prompts collection (#20), Headroom (#37).
 
 ---
 
