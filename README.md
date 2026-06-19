@@ -89,6 +89,16 @@ videos about open source, AI agents, and developer tooling — plus a curated
 | 73 | [marketingskills](https://github.com/coreyhaines31/marketingskills) | Corey Haines' marketing skill pack: SEO, ads, cold email, CRO, growth (heard as "Haynes") |
 | 74 | [mattpocock/skills](https://github.com/mattpocock/skills) | Matt Pocock's personal engineering skills; `/teach` builds stateful tailored HTML lessons |
 | 75 | [Agent-Reach](https://github.com/Panniantong/Agent-Reach) 🟡 | No-API-key agent read/search of tweets/YouTube/Reddit/login-walled sites (most-starred of two same-named repos) |
+| 76 | [Twenty](https://github.com/twentyhq/twenty) | Open-source CRM, Notion-style deal pipeline — replaces Salesforce (AGPL) |
+| 77 | [Appsmith](https://github.com/appsmithorg/appsmith) | Drag-and-drop builder for internal tools/admin panels — replaces Retool |
+| 78 | [Apache Superset](https://github.com/apache/superset) | BI: SQL lab + 40+ chart types + dashboards — replaces Tableau/Looker |
+| 79 | [DocuSeal](https://github.com/docusealco/docuseal) | Drag-field PDF e-signature w/ audit trail — replaces DocuSign |
+| 80 | [Penpot](https://github.com/penpot/penpot) | Design + prototyping, multiplayer, CSS handoff — replaces Figma |
+| 81 | [AFFiNE](https://github.com/toeverything/AFFiNE) | Local-first docs/DB + infinite whiteboard on one canvas — replaces Notion + Miro (heard "Aine") |
+| 82 | [Cap](https://github.com/CapSoftware/Cap) | Screen recording + instant share links/transcript, self-hostable — replaces Loom |
+| 83 | [Listmonk](https://github.com/knadh/listmonk) | Single-Go-binary newsletter/list manager, SQL segments — replaces Mailchimp |
+| 84 | [Qdrant](https://github.com/qdrant/qdrant) | Rust vector DB w/ web dashboard — replaces Pinecone/Algolia (heard "babu/Cudrant") |
+| 85 | [Vaultwarden](https://github.com/dani-garcia/vaultwarden) | Lightweight Bitwarden-protocol server, official clients work — replaces Bitwarden/1Password paid tiers (heard "Walt Warden") |
 
 > **STORM as a method (no code needed):** the Stanford pipeline (#67) can be run
 > by hand in Claude with a 5-prompt chain — (1) discover 6–8 expert perspectives,
