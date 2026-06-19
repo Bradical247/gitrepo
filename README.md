@@ -1085,3 +1085,44 @@ fully canonical.
 
 - **Lazarus** — open-source Delphi-equivalent RAD IDE + GUI toolkit for Object Pascal. Official GitHub mirror (dev on GitLab). https://github.com/fpc/Lazarus
 - **Free Pascal (FPC)** — cross-platform Object Pascal compiler powering Lazarus. Official GitHub mirror (dev on GitLab). https://github.com/fpc/FPCSource
+
+---
+
+## Build-anything toolbox V — build, market & create (last-30-days sweep)
+
+A *last-30-days*-style trend sweep (GitHub Trending / HN / Reddit / X, June 2026)
+for repos to **build a product**, **market it**, and **create content** — verified
+live (HTTP 200) and deduped against everything above. 🟡 = canonical owner not
+fully pinned. Repos already indexed elsewhere (e.g. Twenty, Dify, Qdrant, Payload,
+Pocketbase, Appwrite, GrowthBook, listmonk, Postiz, MoneyPrinterTurbo, Voicebox,
+ACE-Step) were dropped as dupes.
+
+### Build & ship a product
+
+- **better-auth** — framework-agnostic TypeScript auth + authorization (Auth.js merged in). https://github.com/better-auth/better-auth
+- **next-forge** — production-grade Turborepo SaaS starter for Next.js (Vercel). https://github.com/vercel/next-forge
+- **Polar** — open-source Merchant-of-Record billing for developers. https://github.com/polarsource/polar
+- **trigger.dev** — open-source TS background jobs + AI workflows, self-hostable. https://github.com/triggerdotdev/trigger.dev
+- **Unkey** — API platform: key issuance, rate limiting, RBAC, gateway. https://github.com/unkeyed/unkey
+- **Novu** — open-source notification infra (email/SMS/push/in-app) + workflows. https://github.com/novuhq/novu
+- **ToolJet** — low-code internal-tools / admin-panel builder (Retool alt). https://github.com/tooljet/tooljet
+
+### Marketing & growth
+
+- **awesome-claude-skills** — curated Claude Skills index w/ business/marketing section. https://github.com/ComposioHQ/awesome-claude-skills
+- **awesome-agent-skills** — 1000+ agent skills (Claude/Codex/Cursor/Gemini), marketing incl. https://github.com/VoltAgent/awesome-agent-skills
+- **claude-seo** — universal SEO skill: 25 sub-skills, 18 sub-agents, GEO/AEO, schema. https://github.com/AgricIDaniel/claude-seo
+- **openclaudia-skills** — 34 open-source marketing skills for Claude Code (20+ API integrations). https://github.com/OpenClaudia/openclaudia-skills
+- **geo-optimizer-skill** — AEO/GEO toolkit: audit citations in ChatGPT/Perplexity/Gemini. https://github.com/Auriti-Labs/geo-optimizer-skill
+
+### Content creation
+
+- **AI-Youtube-Shorts-Generator** — long videos to viral 9:16 clips (Opus Clip alt). https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator
+- **openshorts** 🟡 — clip generator + AI-actor UGC shorts + YouTube studio. https://github.com/mutonby/openshorts
+- **VoxCPM** — tokenizer-free multilingual TTS + voice design/cloning. https://github.com/OpenBMB/VoxCPM
+- **fish-speech** — SOTA open multilingual TTS, LLM-based synthesis. https://github.com/fishaudio/fish-speech
+- **openscreen** — Screen Studio alt: zooms/captions/export (archived Jun 2026, forks continue). https://github.com/siddharthvaddem/openscreen
+- **open-recorder** — 37MB native Swift macOS Screen Studio alternative. https://github.com/imbhargav5/open-recorder
+- **Qwen-Image** — image foundation model, strong text rendering + editing. https://github.com/QwenLM/Qwen-Image
+- **humanizer** — Claude Code skill stripping AI-writing tells (33 patterns). https://github.com/blader/humanizer
+- **podcastfy** — open NotebookLM-style podcast generator, multimodal to audio. https://github.com/souzatharsis/podcastfy
