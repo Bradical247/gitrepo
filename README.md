@@ -249,6 +249,7 @@ videos about open source, AI agents, and developer tooling — plus a curated
 | [Acontext](https://github.com/memodb-io/Acontext) | Open-source context layer for AI-agent self-learning |
 | [mem0](https://github.com/mem0ai/mem0) | Memory layer adding long-term recall to AI agents |
 | [fallow](https://github.com/fallow-rs/fallow) | Rust-native codebase intelligence (dead code, dupes, deps) for TS/JS |
+| [Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Agent skill: no-API-key read/search across X, Reddit, YouTube, GitHub, LinkedIn, RSS, web |
 
 ### MCP servers & dev tooling
 
@@ -262,6 +263,8 @@ videos about open source, AI agents, and developer tooling — plus a curated
 | [glif-mcp-server](https://github.com/glifxyz/glif-mcp-server) | MCP server to run glif.app no-code AI workflows |
 | [Perplexity MCP](https://github.com/ppl-ai/modelcontextprotocol) 🟡 | Perplexity Sonar API MCP server (mirror: perplexityai/modelcontextprotocol) |
 | [Magic MCP (21st.dev)](https://github.com/21st-dev/magic-mcp) | AI UI-component generator / Magic MCP server for IDEs |
+| [nuqs](https://github.com/47ng/nuqs) | Type-safe URL search-params state manager for React/Next (useState in the query string) |
+| [create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack) | CLI scaffolder for end-to-end type-safe TypeScript stacks, with interactive builder |
 
 ### Design, UI & animation
 
@@ -276,6 +279,7 @@ videos about open source, AI agents, and developer tooling — plus a curated
 | [drawio](https://github.com/jgraph/drawio) | Open-source diagramming editor behind diagrams.net / draw.io |
 | [devtools-frontend](https://github.com/ChromeDevTools/devtools-frontend) | The Chrome DevTools UI frontend source |
 | [devtools-logo](https://github.com/ChromeDevTools/devtools-logo) | Official Chrome DevTools logo and brand assets |
+| [fancy (Fancy Components)](https://github.com/danielpetho/fancy) | Free React components + microinteractions (React/TS/Tailwind/Motion); fancycomponents.dev |
 
 ### Learn & idea lists
 
@@ -294,6 +298,10 @@ videos about open source, AI agents, and developer tooling — plus a curated
 | [MiniMax](https://www.minimax.io) 🟡 | AI platform: voice/speech, video, and LLM models |
 | [Lovart](https://www.lovart.ai) 🟡 | AI design agent positioned as a Canva alternative |
 | [huemint](https://huemint.com) | ML color-palette generator for brands and websites |
+| [grainient](https://grainient.supply) | Grainy + animated gradient generator and shader tool for hero backgrounds |
+| [supahero](https://www.supahero.io) | Curated gallery of website hero sections for design inspiration |
+| [freefaces](https://www.freefaces.gallery) | Gallery of free typefaces (e.g. Instrument Serif) by category |
+| [fonttrio](https://www.fonttrio.xyz) | Font-pairing tool; discover and install curated font trios with one command |
 
 > **Couldn't verify:** `ui-animation.de / Ui-Animation` — domain unreachable, not
 > indexed; left out pending a working link.
