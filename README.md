@@ -658,6 +658,9 @@ videos about open source, AI agents, and developer tooling — plus a curated
 - **Eleventy** — simpler JavaScript static-site generator. https://github.com/11ty/eleventy
 - **Docusaurus** — React static generator for documentation sites. https://github.com/facebook/docusaurus
 - **Decap CMS** — git-based headless CMS (formerly Netlify CMS). https://github.com/decaporg/decap-cms
+- **Pandoc** — universal document converter; Markdown to EPUB3/PDF/DOCX with custom CSS + embedded fonts. https://github.com/jgm/pandoc
+- **EPUBCheck** — official W3C EPUB validator (catches reader-breaking errors before publish). https://github.com/w3c/epubcheck
+- **Sigil** — open-source WYSIWYG EPUB editor for hand-finishing ebooks. https://github.com/Sigil-Ebook/Sigil
 
 ### Travel, events, food & recipes
 
