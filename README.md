@@ -442,6 +442,8 @@ videos about open source, AI agents, and developer tooling — plus a curated
 - **Audacity** — cross-platform multitrack audio editor. https://github.com/audacity/audacity
 - **Kdenlive** — open-source non-linear video editor (KDE). https://github.com/KDE/kdenlive
 - **Real-ESRGAN** — practical image/video super-resolution upscaling. https://github.com/xinntao/Real-ESRGAN
+- **Video2X** — free open-source video upscaler (Real-ESRGAN/RealCUGAN/waifu2x); the Magnific-for-video pick. https://github.com/k4yt3x/video2x
+- **chaiNNer** — node-based, free; batch-upscale images/video frames with any model. https://github.com/chaiNNer-org/chaiNNer
 - **rembg** — remove image backgrounds automatically. https://github.com/danielgatis/rembg
 - **Upscayl** — free AI image upscaler desktop app. https://github.com/upscayl/upscayl
 
