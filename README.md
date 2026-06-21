@@ -436,6 +436,7 @@ videos about open source, AI agents, and developer tooling — plus a curated
 - **WhisperX** — fast speech-to-text w/ word-level timestamps + diarization. https://github.com/m-bain/whisperX
 - **OpenVoice** — instant voice cloning and TTS synthesis. https://github.com/myshell-ai/OpenVoice
 - **Demucs** — state-of-the-art music source separation (stems). https://github.com/adefossez/demucs
+- **FFmpeg** — the universal CLI for transcoding, scaling, recolouring (colorchannelmixer/eq), trimming, and frame extraction. https://github.com/FFmpeg/FFmpeg
 - **HandBrake** — open-source video transcoder for many formats. https://github.com/HandBrake/HandBrake
 - **Remotion** — create videos programmatically in React. https://github.com/remotion-dev/remotion
 - **Revideo** — programmatic video editing via TypeScript code. https://github.com/midrender/revideo
@@ -446,6 +447,18 @@ videos about open source, AI agents, and developer tooling — plus a curated
 - **chaiNNer** — node-based, free; batch-upscale images/video frames with any model. https://github.com/chaiNNer-org/chaiNNer
 - **rembg** — remove image backgrounds automatically. https://github.com/danielgatis/rembg
 - **Upscayl** — free AI image upscaler desktop app. https://github.com/upscayl/upscayl
+
+### Free stock media & fonts (sites)
+
+Free, commercial-use, mostly no-attribution sources for photos, video, and typefaces.
+
+- **Pexels** — free stock photos + video. https://www.pexels.com/videos/
+- **Pixabay** — free photos, video, music. https://pixabay.com/videos/
+- **Unsplash** — free high-quality photography. https://unsplash.com
+- **Mixkit** — free stock video, music, SFX. https://mixkit.co/free-stock-video/
+- **Coverr** — free background video clips. https://coverr.co
+- **Videvo** — free stock footage + motion graphics. https://www.videvo.net
+- **Google Fonts** — open-licence (OFL) font library; download TTFs to self-host or embed. https://github.com/google/fonts
 
 ### Social Media, Marketing & Analytics
 
