@@ -767,6 +767,7 @@ Free, commercial-use, mostly no-attribution sources for photos, video, and typef
 - **Chroma** — embedding database for building LLM/RAG apps. https://github.com/chroma-core/chroma
 - **pgvector** — vector similarity search extension for PostgreSQL. https://github.com/pgvector/pgvector
 - **RAGFlow** — open-source RAG engine w/ deep document understanding. https://github.com/infiniflow/ragflow
+- **PixelRAG** — pixel-native RAG; screenshots pages and retrieves images instead of parsing HTML. https://github.com/StarTrail-org/PixelRAG
 
 ### Crypto & web3
 
