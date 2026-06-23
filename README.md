@@ -440,6 +440,7 @@ videos about open source, AI agents, and developer tooling — plus a curated
 - **HandBrake** — open-source video transcoder for many formats. https://github.com/HandBrake/HandBrake
 - **Remotion** — create videos programmatically in React. https://github.com/remotion-dev/remotion
 - **Revideo** — programmatic video editing via TypeScript code. https://github.com/midrender/revideo
+- **html5-animation-video-renderer** — headless, seekable render of CSS/GSAP animation → MP4 or transparent MOV; backed by canvas-record + ffmpeg.wasm. The closest match to "looping promo HTML → shareable video" without DIY Puppeteer. https://github.com/dtinth/html5-animation-video-renderer
 - **Audacity** — cross-platform multitrack audio editor. https://github.com/audacity/audacity
 - **Kdenlive** — open-source non-linear video editor (KDE). https://github.com/KDE/kdenlive
 - **Real-ESRGAN** — practical image/video super-resolution upscaling. https://github.com/xinntao/Real-ESRGAN
