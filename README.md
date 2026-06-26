@@ -1197,5 +1197,5 @@ Understand-Anything, hermes-agent, agentmemory, apple/container, OpenClaw.
 
 - **kage** — shadow any website into a single self-contained binary for offline viewing (HN: 689 pts). https://github.com/tamnd/kage
 - **ChartGPU** — WebGPU charting library; 1M points at 60fps with smooth zoom/pan (GPU-side compute). https://github.com/ChartGPU/ChartGPU
-- **performativeUI** — satirical React component library of startup "design tropes"; viral Show HN. https://github.com/vorpus/performativeUI
+- **lottie** — generate production-ready Lottie JSON motion graphics with AI agents (Diffusion Studio). https://github.com/diffusionstudio/lottie
 - **isometric-nyc** — giant AI-agent-built isometric pixel-art map of NYC (gemini-cli + Claude Code + Cursor). https://github.com/cannoneyed/isometric-nyc
