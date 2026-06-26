@@ -1169,3 +1169,33 @@ ACE-Step) were dropped as dupes.
 - **Qwen-Image** — image foundation model, strong text rendering + editing. https://github.com/QwenLM/Qwen-Image
 - **humanizer** — Claude Code skill stripping AI-writing tells (33 patterns). https://github.com/blader/humanizer
 - **podcastfy** — open NotebookLM-style podcast generator, multimodal to audio. https://github.com/souzatharsis/podcastfy
+
+---
+
+## Build-anything toolbox VI — `/last30days` traction sweep (June 2026)
+
+A `/last30days`-method sweep (mvanhorn skill #19: parallel GitHub Trending / HN /
+Reddit / X, engagement-scored, 30-day window) for repos **amazing and gaining
+traction right now** — verified live (HTTP 200, redirects resolved to canonical
+owner) and deduped against everything above. 🟡 = legally/ownership-murky or
+canonical owner not fully pinned. Dropped as dupes: Files.md, Headroom, CodeGraph,
+Understand-Anything, hermes-agent, agentmemory, apple/container, OpenClaw.
+
+### AI coding agents & skills
+
+- **opencode** — terminal-native AI coding agent, 75+ providers, LSP-aware (~178k★; was `sst/opencode`). https://github.com/anomalyco/opencode
+- **andrej-karpathy-skills** — one CLAUDE.md, 4 behavior rules (no silent assumptions / simplicity / surgical edits / verify) that stop agents breaking code (~130k★ across mirrors). https://github.com/multica-ai/andrej-karpathy-skills
+- **claw-code** 🟡 — clean-room Python/Rust rewrite of the Claude Code harness; fastest repo to 100k★ in GitHub history (origin: leaked CC; was `instructkr/claw-code`). https://github.com/ultraworkers/claw-code
+
+### Agent infra & models
+
+- **bumblebee** — Perplexity's read-only supply-chain scanner; inventories npm/PyPI/Go/MCP/editor extensions without running install scripts (single Go binary). https://github.com/perplexityai/bumblebee
+- **needle** — Cactus's 26M-param tool-calling model distilled from Gemini; <100ms on CPU, finetune locally for on-device agents. https://github.com/cactus-compute/needle
+- **design.md** — Google Labs spec for describing a visual identity to coding agents (persistent, structured design-system context). https://github.com/google-labs-code/design.md
+
+### Dev tools & creative
+
+- **kage** — shadow any website into a single self-contained binary for offline viewing (HN: 689 pts). https://github.com/tamnd/kage
+- **ChartGPU** — WebGPU charting library; 1M points at 60fps with smooth zoom/pan (GPU-side compute). https://github.com/ChartGPU/ChartGPU
+- **performativeUI** — satirical React component library of startup "design tropes"; viral Show HN. https://github.com/vorpus/performativeUI
+- **isometric-nyc** — giant AI-agent-built isometric pixel-art map of NYC (gemini-cli + Claude Code + Cursor). https://github.com/cannoneyed/isometric-nyc
