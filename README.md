@@ -265,6 +265,7 @@ videos about open source, AI agents, and developer tooling — plus a curated
 | [mem0](https://github.com/mem0ai/mem0) | Memory layer adding long-term recall to AI agents |
 | [fallow](https://github.com/fallow-rs/fallow) | Rust-native codebase intelligence (dead code, dupes, deps) for TS/JS |
 | [Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Agent skill: no-API-key read/search across X, Reddit, YouTube, GitHub, LinkedIn, RSS, web |
+| [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | Next.js template: AI agents reverse-engineer a URL into a clean rebuild (`/clone-website`) |
 
 ### MCP servers & dev tooling
 
@@ -272,6 +273,7 @@ videos about open source, AI agents, and developer tooling — plus a curated
 |---|---|
 | [mcp servers](https://github.com/modelcontextprotocol/servers) | Reference MCP server implementations for Model Context Protocol |
 | [repomix](https://github.com/yamadashy/repomix) | Packs a whole repo into one LLM-friendly file |
+| [gitpodcast](https://github.com/BandarLabs/gitpodcast) | Turns any GitHub repo into an engaging podcast in seconds |
 | [faker](https://github.com/faker-js/faker) | Generates fake/mock data for testing and seeding |
 | [playwright-mcp](https://github.com/microsoft/playwright-mcp) | Microsoft MCP server for browser automation via Playwright |
 | [firecrawl](https://github.com/firecrawl/firecrawl) | Web scraping/crawling API turning sites into LLM-ready data |
