@@ -99,6 +99,16 @@ videos about open source, AI agents, and developer tooling — plus a curated
 | 83 | [Listmonk](https://github.com/knadh/listmonk) | Single-Go-binary newsletter/list manager, SQL segments — replaces Mailchimp |
 | 84 | [Qdrant](https://github.com/qdrant/qdrant) | Rust vector DB w/ web dashboard — replaces Pinecone/Algolia (heard "babu/Cudrant") |
 | 85 | [Vaultwarden](https://github.com/dani-garcia/vaultwarden) | Lightweight Bitwarden-protocol server, official clients work — replaces Bitwarden/1Password paid tiers (heard "Walt Warden") |
+| 86 | [OpenMontage](https://github.com/calesthio/OpenMontage) | Agentic video production for AI coding agents — 12 pipelines, 52 tools, 500+ skills; plain prompt → edited video |
+| 87 | [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | MCP server indexing a codebase into a knowledge graph; ~120× fewer tokens, 158 languages, single static binary |
+| 88 | [timesfm](https://github.com/google-research/timesfm) | Google Research time-series foundation model; zero-shot forecasting w/ quantile intervals |
+| 89 | [peerd](https://github.com/NotASithLord/peerd) | Browser-native AI agent harness (Chrome/Firefox extension); BYOK, no backend, no telemetry |
+| 90 | [FluidVoice](https://github.com/altic-dev/FluidVoice) | Local macOS dictation, WisprFlow/Whisper Flow alt; Parakeet/Whisper, near-zero latency |
+| 91 | [birdclaw](https://github.com/steipete/birdclaw) | Local-first X/Twitter workspace + CLI; archive import, SQLite, git backups (Peter Steinberger) |
+| 92 | [worldmonitor](https://github.com/koala73/worldmonitor) 🟡 | Real-time global intelligence dashboard — conflicts, markets, Polymarket signals (original of many forks) |
+| 93 | [voicebox](https://github.com/jamiepine/voicebox) | Local AI voice studio, ElevenLabs alt; clone voices (Qwen3-TTS), multi-voice timeline editor |
+| 94 | [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | Extracted system prompts of Claude/GPT/Gemini/Grok, updated regularly (distinct repo from #20) |
+| 95 | [daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | LLM-driven multi-market stock watchlist analysis + daily report; push to Telegram/Discord/Slack |
 
 > **STORM as a method (no code needed):** the Stanford pipeline (#67) can be run
 > by hand in Claude with a 5-prompt chain — (1) discover 6–8 expert perspectives,
@@ -110,6 +120,11 @@ videos about open source, AI agents, and developer tooling — plus a curated
 
 > **Already indexed (this video):** Agent Skills (#16), PM Skills (#17),
 > last-30-days (#19), System Prompts collection (#20), Headroom (#37).
+
+> **The Next New Thing — "Free Wispr Flow, ElevenLabs & CapCut alternatives"
+> (#86–#95):** new this video. Already indexed from that episode: OpenCut (#70),
+> Penpot (#80), Agent-Reach (#75). Zapier MCP covered too (sponsor product, no
+> single canonical repo — see zapier.com/mcp).
 
 ---
 
