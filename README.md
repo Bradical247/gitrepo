@@ -1237,3 +1237,53 @@ repeated here.
 ### Reference
 
 - **book-and-ebook-writing-resources** — curated list: tools, articles, and publishers for writing a book/eBook. https://github.com/oferze/book-and-ebook-writing-resources
+
+---
+
+## Screenwriting & comics — scripts, Fountain tooling & comic creation
+
+Open-source stack for scripts and sequential art. Screenwriting centres on the
+**Fountain** plain-text format (Markdown for screenplays). All verified live
+(HTTP 200, canonical owner). Krita (comic art) is already indexed in the design
+picks above, so it's not repeated.
+
+### Screenwriting apps
+
+- **starc** — full screenwriting suite: editor, cards/beat board, imports FDX/Fountain/Trelby/Celtx. https://github.com/story-apps/starc
+- **OpenDraft** — Final Draft alternative: pro formatting, real-time collab, beat boards, version control (desktop + web). https://github.com/Proteus-Technologies-Private-Limited/OpenDraft
+- **Trelby** — classic free multiplatform screenwriting app; reports, correct format, Fountain I/O. https://github.com/trelby/trelby
+- **betterfountain** — VSCode screenwriting extension for Fountain, with live PDF preview and real-time collaboration. https://github.com/piersdeseilligny/betterfountain
+- **AI-Screenwriting-Tool** 🟡 — Final Draft-13-inspired screenwriting app with AI assistance (early). https://github.com/lwhela12/AI-Screenwriting-Tool
+
+### Fountain format & conversion
+
+- **Fountain** — reference implementation of the Fountain screenplay markup language. https://github.com/nyousefi/Fountain
+- **screenplain** — convert a Fountain plain-text screenplay to FDX, HTML, or PDF. https://github.com/vilcans/screenplain
+- **afterwriting-labs** — post-processing for Fountain scripts; CLI generates print-ready PDFs (Node). https://github.com/ifrost/afterwriting-labs
+- **screenplay-tools** — multi-language utils to parse/write Fountain and Final Draft (FDX). https://github.com/wildwinter/screenplay-tools
+
+### Comic & manga creation
+
+- **Comic-Smart-Panels** — author "guided-view" animated panel comics; panel positions stored as JSON (CPD). https://github.com/zoran123456/Comic-Smart-Panels
+- **Manga-Scripts** — Photoshop scripts for manga/comic lettering (batch resize, place pages). https://github.com/saraoswald/Manga-Scripts
+- **KCC** — Kindle Comic Converter: build CBZ/CBR/EPUB for e-readers, with webtoon/manga modes. https://github.com/ciromattia/kcc
+- **Stump** — self-hosted comics/manga/digital-book server with OPDS (read your library anywhere). https://github.com/stumpapp/stump
+- **OpenComic** — cross-platform comic/manga reader (Electron). https://github.com/ollm/OpenComic
+
+---
+
+## Mobile game development — engines, frameworks & toolkits
+
+Mobile-first (or mobile-strong) engines that build once and ship to **iOS +
+Android**. Complements the general **Game development** picks above (Godot,
+Phaser, LÖVE, libGDX, raylib, Bevy, MonoGame, PixiJS, Ebitengine, Tiled,
+Aseprite) — not repeated here. All verified live (HTTP 200).
+
+- **Defold** — free, tiny, truly cross-platform 2D/3D engine; build once → iOS/Android/web/desktop/console (backed by King). https://github.com/defold/defold
+- **GDevelop** — full-featured no-code game maker; 2D/3D/multiplayer with native iOS + Android export. https://github.com/4ian/GDevelop
+- **Flame** — game engine built on Flutter; great for casual/board/puzzle games with heavy UI on mobile. https://github.com/flame-engine/flame
+- **Flutter Casual Games Toolkit** — Google's starter template + packages for shipping mobile games in Flutter. https://github.com/flutter/games
+- **cocos2d-x** — mature C++ framework for 2D mobile games (iOS/Android/desktop). https://github.com/cocos2d/cocos2d-x
+- **Cocos Engine** — Cocos Creator: editor-driven engine dominant in mobile + WeChat/mini-game platforms. https://github.com/cocos/cocos-engine
+- **Solar2D** — Lua-scripted 2D engine (the open-source Corona successor); fast iOS/Android builds. https://github.com/coronalabs/corona
+- **Castle Game Engine** — cross-platform 3D/2D engine with editor + Pascal API; Android/iOS export. https://github.com/castle-engine/castle-engine
