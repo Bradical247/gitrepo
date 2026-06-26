@@ -1199,3 +1199,41 @@ Understand-Anything, hermes-agent, agentmemory, apple/container, OpenClaw.
 - **ChartGPU** — WebGPU charting library; 1M points at 60fps with smooth zoom/pan (GPU-side compute). https://github.com/ChartGPU/ChartGPU
 - **lottie** — generate production-ready Lottie JSON motion graphics with AI agents (Diffusion Studio). https://github.com/diffusionstudio/lottie
 - **isometric-nyc** — giant AI-agent-built isometric pixel-art map of NYC (gemini-cli + Claude Code + Cursor). https://github.com/cannoneyed/isometric-nyc
+
+---
+
+## Book writing & publishing — author tools, AI co-writers & typesetting
+
+End-to-end stack for writing and shipping a book: AI co-writers, manuscript
+organizers, and typesetting/publishing engines. All verified live (HTTP 200,
+canonical owner). The conversion/format layer already lives in the **ebook
+publishing** picks above — Pandoc, Calibre, Sigil, EPUBCheck — so those are not
+repeated here.
+
+### AI authoring & novel agents
+
+- **autonovel** — Nous Research's autonomous pipeline: seed → revised, typeset, illustrated, narrated novel (print-ready PDF/ePub/audiobook). https://github.com/NousResearch/autonovel
+- **libriscribe** — multi-agent book creation system, concept → polished manuscript (outline, characters, worldbuilding, chapters, edit). https://github.com/guerra2fernando/libriscribe
+- **storycraftr** — AI CLI for worldbuilding, outlines, and chapter drafting; ships a VSCode extension. https://github.com/raestrada/storycraftr
+- **ai-book-writer** — AutoGen multi-agent experiment generating a full structured book from a prompt. https://github.com/adamwlarson/ai-book-writer
+- **gemini-writer** — autonomous novel/story writing agent (Gemini), streaming + context management. https://github.com/Doriandarko/gemini-writer
+- **novel-engine** — desktop book-building pipeline, 7 editorial agents, local-first (no API key for Claude). https://github.com/john-paul-ruf/novel-engine
+
+### Authoring & manuscript organizers
+
+- **novelWriter** — plain-text/Markdown novel editor with metadata, synopsis, and cross-references across many files. https://github.com/vkbo/novelWriter
+- **manuskript** — open-source Scrivener alternative: outliner, corkboard, character/world DB (GPL, no paid tier). https://github.com/olivierkes/manuskript
+- **bibisco** — structured novel-planning app: characters, places, timeline, narrative strands. https://github.com/andreafeccomandi/bibisco
+- **Zettlr** — Markdown editor for writers and academics; citations, references, multi-format export. https://github.com/Zettlr/Zettlr
+
+### Typesetting & publishing
+
+- **typst** — modern LaTeX alternative; fast markup-based typesetting for print-quality books. https://github.com/typst/typst
+- **quarto-cli** — technical/scientific publishing system → PDF/HTML/ePub and full books. https://github.com/quarto-dev/quarto-cli
+- **mdBook** — build a book or doc site from Markdown (Rust); good for technical ebooks. https://github.com/rust-lang/mdBook
+- **pressbooks** — WordPress-based open book publishing platform → PDF/EPUB/web. https://github.com/pressbooks/pressbooks
+- **standardebooks/tools** — toolchain producing high-quality, typographically clean public-domain ePubs. https://github.com/standardebooks/tools
+
+### Reference
+
+- **book-and-ebook-writing-resources** — curated list: tools, articles, and publishers for writing a book/eBook. https://github.com/oferze/book-and-ebook-writing-resources
